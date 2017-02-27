@@ -1,4 +1,8 @@
-# CS 838 Data Science Project
+---
+title: "CS 838 Data Science Project"
+---
+
+Data mining over company data.
 
 ## [Datasets](./dataset)
 - NASDAQ company list (structured)
