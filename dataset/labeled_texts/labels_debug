@@ -1,0 +1,1258 @@
+fortune500/001_walmart.txt:{Walmart}
+fortune500/001_walmart.txt:{Amazon}
+fortune500/001_walmart.txt:{Walmart}
+fortune500/001_walmart.txt:{Costco}
+fortune500/002_exxon-mobil.txt:{Sinopec}
+fortune500/002_exxon-mobil.txt:{Royal Dutch Shell}
+fortune500/002_exxon-mobil.txt:{ExxonMobil}
+fortune500/003_apple.txt:{Apple}
+fortune500/004_berkshire-hathaway.txt:{Berkshire Hathaway}
+fortune500/004_berkshire-hathaway.txt:{Berkshire}
+fortune500/004_berkshire-hathaway.txt:{Precision Castparts}
+fortune500/004_berkshire-hathaway.txt:{Berkshire}
+fortune500/004_berkshire-hathaway.txt:{Geico}
+fortune500/004_berkshire-hathaway.txt:{Fruit of the Loom}
+fortune500/004_berkshire-hathaway.txt:{Burlington Northern}
+fortune500/004_berkshire-hathaway.txt:{Kraft Heinz}
+fortune500/004_berkshire-hathaway.txt:{Berkshire}
+fortune500/004_berkshire-hathaway.txt:{IBM}
+fortune500/004_berkshire-hathaway.txt:{American Express}
+fortune500/005_mckesson.txt:{McKesson}
+fortune500/005_mckesson.txt:{Walgreens}
+fortune500/006_unitedhealth-group.txt:{UnitedHealth Group}
+fortune500/006_unitedhealth-group.txt:{Walgreens}
+fortune500/006_unitedhealth-group.txt:{UnitedHealth}
+fortune500/006_unitedhealth-group.txt:{CVS Health}
+fortune500/006_unitedhealth-group.txt:{Express Scripts}
+fortune500/007_cvs-health.txt:{CVS Health}
+fortune500/007_cvs-health.txt:{CVS}
+fortune500/007_cvs-health.txt:{Target}
+fortune500/007_cvs-health.txt:{Curbside}
+fortune500/007_cvs-health.txt:{Walgreens}
+fortune500/008_general-motors.txt:{General Motors}
+fortune500/008_general-motors.txt:{GM}
+fortune500/009_ford-motor.txt:{Ford}
+fortune500/009_ford-motor.txt:{Google}
+fortune500/009_ford-motor.txt:{Uber}
+fortune500/009_ford-motor.txt:{Ford}
+fortune500/010_att.txt:{AT&T}
+fortune500/010_att.txt:{T-Mobile}
+fortune500/010_att.txt:{AT&T}
+fortune500/010_att.txt:{DirecTV}
+fortune500/010_att.txt:{AT&T}
+fortune500/010_att.txt:{Nextel Mexico}
+fortune500/010_att.txt:{Iusacell}
+fortune500/010_att.txt:{AT&T}
+fortune500/010_att.txt:{Netflix}
+fortune500/011_general-electric.txt:{GE}
+fortune500/011_general-electric.txt:{GE Capital}
+fortune500/011_general-electric.txt:{GE}
+fortune500/011_general-electric.txt:{Alstom}
+fortune500/011_general-electric.txt:{GE}
+fortune500/012_amerisourcebergen.txt:{AmerisourceBergen}
+fortune500/012_amerisourcebergen.txt:{McKesson}
+fortune500/012_amerisourcebergen.txt:{AmerisourceBergen}
+fortune500/012_amerisourcebergen.txt:{MWI Veterinary Supply}
+fortune500/012_amerisourcebergen.txt:{PharMEDium}
+fortune500/012_amerisourcebergen.txt:{World Courier}
+fortune500/012_amerisourcebergen.txt:{AmerisourceBergen}
+fortune500/012_amerisourcebergen.txt:{Walgreens}
+fortune500/012_amerisourcebergen.txt:{Rite Aid}
+fortune500/013_verizon-communications.txt:{Verizon Communications}
+fortune500/013_verizon-communications.txt:{Vodafone}
+fortune500/013_verizon-communications.txt:{Verizon}
+fortune500/014_chevron.txt:{ExxonMobil}
+fortune500/014_chevron.txt:{Chevron}
+fortune500/014_chevron.txt:{Exxon}
+fortune500/014_chevron.txt:{Chevron}
+fortune500/014_chevron.txt:{Exxon}
+fortune500/015_costco-wholesale.txt:{Costco Wholesale}
+fortune500/015_costco-wholesale.txt:{Sam’s Club}
+fortune500/015_costco-wholesale.txt:{Costco}
+fortune500/015_costco-wholesale.txt:{Kirkland}
+fortune500/015_costco-wholesale.txt:{Costco}
+fortune500/015_costco-wholesale.txt:{Sam’s Club}
+fortune500/015_costco-wholesale.txt:{Costco}
+fortune500/016_fannie-mae.txt:{Mortgage-finance giant Fannie Mae}
+fortune500/017_kroger.txt:{Walmart}
+fortune500/017_kroger.txt:{Kroger}
+fortune500/017_kroger.txt:{Roundy}
+fortune500/017_kroger.txt:{Kroger}
+fortune500/018_amazon-com.txt:{The Everything Store}
+fortune500/018_amazon-com.txt:{Amazon}
+fortune500/018_amazon-com.txt:{Apple}
+fortune500/018_amazon-com.txt:{Amazon}
+fortune500/018_amazon-com.txt:{Netflix}
+fortune500/018_amazon-com.txt:{FedEx}
+fortune500/018_amazon-com.txt:{UPS}
+fortune500/019_walgreens-boots-alliance.txt:{Walgreens Boots Alliance}
+fortune500/019_walgreens-boots-alliance.txt:{Theranos}
+fortune500/019_walgreens-boots-alliance.txt:{Valeant}
+fortune500/019_walgreens-boots-alliance.txt:{Rite Aid}
+fortune500/019_walgreens-boots-alliance.txt:{Alliance Boots}
+fortune500/019_walgreens-boots-alliance.txt:{Walgreens}
+fortune500/019_walgreens-boots-alliance.txt:{CVS}
+fortune500/019_walgreens-boots-alliance.txt:{AmerisourceBergen}
+fortune500/020_hp.txt:{Hewlett Packard}
+fortune500/020_hp.txt:{Hewlett Packard Enterprise}
+fortune500/020_hp.txt:{HP, Inc}
+fortune500/020_hp.txt:{HPE}
+fortune500/020_hp.txt:{HP}
+fortune500/021_cardinal-health.txt:{Cardinal Health}
+fortune500/021_cardinal-health.txt:{Johnson & Johnson}
+fortune500/021_cardinal-health.txt:{Henry Shein}
+fortune500/021_cardinal-health.txt:{Cardinal Health}
+fortune500/021_cardinal-health.txt:{CVS}
+fortune500/021_cardinal-health.txt:{Cardinal Health}
+fortune500/022_express-scripts-holding.txt:{Express Scripts}
+fortune500/022_express-scripts-holding.txt:{CVS Health}
+fortune500/022_express-scripts-holding.txt:{Express Scripts}
+fortune500/023_jpmorgan-chase.txt:{Jamie Dimon}
+fortune500/023_jpmorgan-chase.txt:{J.P. Morgan Chase}
+fortune500/023_jpmorgan-chase.txt:{J.P. Morgan}
+fortune500/024_boeing.txt:{Airbus Group}
+fortune500/024_boeing.txt:{Bombardier}
+fortune500/025_microsoft.txt:{Microsoft}
+fortune500/025_microsoft.txt:{Apple}
+fortune500/025_microsoft.txt:{Microsoft Azure}
+fortune500/025_microsoft.txt:{Azure}
+fortune500/025_microsoft.txt:{Amazon Web Services}
+fortune500/025_microsoft.txt:{Microsoft}
+fortune500/025_microsoft.txt:{Nokia}
+fortune500/026_bank-of-america-corp.txt:{Bank of America}
+fortune500/026_bank-of-america-corp.txt:{B of A}
+fortune500/027_wells-fargo.txt:{Wells Fargo}
+fortune500/027_wells-fargo.txt:{Citigroup}
+fortune500/028_home-depot.txt:{Home Depot}
+fortune500/029_citigroup.txt:{Citigroup}
+fortune500/029_citigroup.txt:{Citi}
+fortune500/030_phillips-66.txt:{Phillips 66}
+fortune500/030_phillips-66.txt:{Berkshire Hathaway}
+fortune500/031_ibm.txt:{IBM}
+fortune500/031_ibm.txt:{Truven Health Analytics}
+fortune500/031_ibm.txt:{Big Blue}
+fortune500/032_valero-energy.txt:{Valero}
+fortune500/033_anthem.txt:{Anthem}
+fortune500/033_anthem.txt:{Cigna}
+fortune500/033_anthem.txt:{UnitedHealth Group}
+fortune500/033_anthem.txt:{Anthem}
+fortune500/033_anthem.txt:{UnitedHealth}
+fortune500/033_anthem.txt:{Anthem}
+fortune500/033_anthem.txt:{Express Scripts}
+fortune500/033_anthem.txt:{J.P. Morgan}
+fortune500/033_anthem.txt:{PBM}
+fortune500/033_anthem.txt:{Anthem}
+fortune500/033_anthem.txt:{Express Scripts}
+fortune500/033_anthem.txt:{Scripts}
+fortune500/033_anthem.txt:{Anthem}
+fortune500/034_procter-gamble.txt:{Procter & Gamble}
+fortune500/034_procter-gamble.txt:{P&G}
+fortune500/034_procter-gamble.txt:{Reckitt Benckiser}
+fortune500/034_procter-gamble.txt:{Unilever}
+fortune500/034_procter-gamble.txt:{L’Oreal}
+fortune500/035_state-farm-insurance-cos.txt:{State Farm}
+fortune500/035_state-farm-insurance-cos.txt:{Airware}
+fortune500/035_state-farm-insurance-cos.txt:{State Farm}
+fortune500/036_alphabet.txt:{Alphabet}
+fortune500/036_alphabet.txt:{Google}
+fortune500/036_alphabet.txt:{YouTube}
+fortune500/036_alphabet.txt:{Alphabet}
+fortune500/036_alphabet.txt:{Google}
+fortune500/036_alphabet.txt:{Apple}
+fortune500/036_alphabet.txt:{IMAX}
+fortune500/037_comcast.txt:{Comcast}
+fortune500/037_comcast.txt:{Time Warner Cable}
+fortune500/037_comcast.txt:{DreamWorks Animation}
+fortune500/038_target.txt:{Target}
+fortune500/038_target.txt:{Walmart}
+fortune500/038_target.txt:{Amazon}
+fortune500/038_target.txt:{Walmart}
+fortune500/038_target.txt:{Target}
+fortune500/038_target.txt:{MIT}
+fortune500/038_target.txt:{Curbside}
+fortune500/038_target.txt:{Target}
+fortune500/039_johnson-johnson.txt:{J&J}
+fortune500/040_metlife.txt:{MetLife}
+fortune500/040_metlife.txt:{American International Group}
+fortune500/040_metlife.txt:{MetLife}
+fortune500/040_metlife.txt:{TBTF}
+fortune500/041_archer-daniels-midland.txt:{Archer Daniels Midland}
+fortune500/041_archer-daniels-midland.txt:{North American supply}
+fortune500/041_archer-daniels-midland.txt:{ADM}
+fortune500/041_archer-daniels-midland.txt:{Wild Flavors}
+fortune500/041_archer-daniels-midland.txt:{Eatem Foods}
+fortune500/041_archer-daniels-midland.txt:{SCI}
+fortune500/041_archer-daniels-midland.txt:{ADM}
+fortune500/041_archer-daniels-midland.txt:{Harvest Innovation}
+fortune500/041_archer-daniels-midland.txt:{Wilmar International}
+fortune500/042_marathon-petroleum.txt:{Marathon Petroleum}
+fortune500/042_marathon-petroleum.txt:{MarkWest}
+fortune500/043_freddie-mac.txt:{Freddie Mac}
+fortune500/043_freddie-mac.txt:{Fannie Mae}
+fortune500/044_pepsico.txt:{PepsiCo}
+fortune500/045_united-technologies.txt:{UTC}
+fortune500/045_united-technologies.txt:{Honeywell}
+fortune500/045_united-technologies.txt:{UTC}
+fortune500/045_united-technologies.txt:{Pratt & Whitney}
+fortune500/045_united-technologies.txt:{UTC}
+fortune500/045_united-technologies.txt:{Airbus}
+fortune500/045_united-technologies.txt:{UTC}
+fortune500/046_aetna.txt:{Aetna}
+fortune500/046_aetna.txt:{Humana}
+fortune500/046_aetna.txt:{Medicare Advantage}
+fortune500/046_aetna.txt:{UnitedHealth Group}
+fortune500/046_aetna.txt:{Aetna}
+fortune500/046_aetna.txt:{Aetna-Humana}
+fortune500/046_aetna.txt:{UnitedHealth}
+fortune500/046_aetna.txt:{Aetna}
+fortune500/046_aetna.txt:{Humana}
+fortune500/047_lowes.txt:{Home Depot}
+fortune500/047_lowes.txt:{Lowe’s}
+fortune500/047_lowes.txt:{Sears}
+fortune500/047_lowes.txt:{Lowe’s}
+fortune500/047_lowes.txt:{Rona}
+fortune500/047_lowes.txt:{Lowe’s}
+fortune500/047_lowes.txt:{Home Depot}
+fortune500/047_lowes.txt:{Lowe’s}
+fortune500/048_ups.txt:{UPS}
+fortune500/048_ups.txt:{Coyote Logistics}
+fortune500/048_ups.txt:{FedEx}
+fortune500/048_ups.txt:{Amazon}
+fortune500/049_aig.txt:{AIG}
+fortune500/049_aig.txt:{MetLife}
+fortune500/050_prudential-financial.txt:{Prudential}
+fortune500/051_intel.txt:{Intel}
+fortune500/051_intel.txt:{Apple}
+fortune500/051_intel.txt:{Qualcomm}
+fortune500/052_humana.txt:{Humana}
+fortune500/052_humana.txt:{Aetna}
+fortune500/052_humana.txt:{Humana}
+fortune500/053_disney.txt:{Disney}
+fortune500/054_cisco-systems.txt:{Cisco}
+fortune500/054_cisco-systems.txt:{Amazon}
+fortune500/054_cisco-systems.txt:{Microsoft}
+fortune500/054_cisco-systems.txt:{Cisco}
+fortune500/054_cisco-systems.txt:{Jasper Technologies}
+fortune500/054_cisco-systems.txt:{Cisco}
+fortune500/055_pfizer.txt:{Pfizer}
+fortune500/055_pfizer.txt:{Hospira}
+fortune500/055_pfizer.txt:{Pfizer}
+fortune500/056_dow-chemical.txt:{Dow}
+fortune500/056_dow-chemical.txt:{DuPont}
+fortune500/056_dow-chemical.txt:{Dow}
+fortune500/056_dow-chemical.txt:{DuPont}
+fortune500/057_sysco.txt:{Sysco}
+fortune500/058_fedex.txt:{UPS}
+fortune500/058_fedex.txt:{FedEx}
+fortune500/058_fedex.txt:{TNT Express}
+fortune500/058_fedex.txt:{Amazon}
+fortune500/058_fedex.txt:{FedEx}
+fortune500/059_caterpillar.txt:{Caterpillar}
+fortune500/060_lockheed-martin.txt:{Lockheed Martin}
+fortune500/060_lockheed-martin.txt:{Lockheed}
+fortune500/060_lockheed-martin.txt:{Sikorsky Aircraft}
+fortune500/060_lockheed-martin.txt:{United Technologies Corporation}
+fortune500/061_new-york-life-insurance.txt:{New York Life Insurance}
+fortune500/061_new-york-life-insurance.txt:{New York Life}
+fortune500/061_new-york-life-insurance.txt:{AIG}
+fortune500/061_new-york-life-insurance.txt:{Limra}
+fortune500/062_coca-cola.txt:{Coke}
+fortune500/063_hca-holdings.txt:{HCA}
+fortune500/064_ingram-micro.txt:{Ingram Micro}
+fortune500/064_ingram-micro.txt:{HNA Group}
+fortune500/064_ingram-micro.txt:{Ingram Micro}
+fortune500/064_ingram-micro.txt:{Tianjin Tianhai Investment Company}
+fortune500/064_ingram-micro.txt:{HNA Group}
+fortune500/064_ingram-micro.txt:{Ingram Micro}
+fortune500/065_energy-transfer-equity.txt:{Energy Transfer Equity}
+fortune500/065_energy-transfer-equity.txt:{Kelcy Warren with}
+fortune500/065_energy-transfer-equity.txt:{Williams Companies}
+fortune500/065_energy-transfer-equity.txt:{ETE}
+fortune500/065_energy-transfer-equity.txt:{Williams}
+fortune500/065_energy-transfer-equity.txt:{ETE}
+fortune500/065_energy-transfer-equity.txt:{Williams}
+fortune500/065_energy-transfer-equity.txt:{ETE}
+fortune500/065_energy-transfer-equity.txt:{Williams}
+fortune500/065_energy-transfer-equity.txt:{ETE}
+fortune500/066_tyson-foods.txt:{Tyson}
+fortune500/066_tyson-foods.txt:{Hillshire Brands}
+fortune500/066_tyson-foods.txt:{Tyson}
+fortune500/067_american-airlines-group.txt:{American}
+fortune500/067_american-airlines-group.txt:{Americans}
+fortune500/067_american-airlines-group.txt:{American}
+fortune500/067_american-airlines-group.txt:{Southwest}
+fortune500/067_american-airlines-group.txt:{American}
+fortune500/067_american-airlines-group.txt:{Spirit}
+fortune500/067_american-airlines-group.txt:{American}
+fortune500/068_delta-air-lines.txt:{Delta}
+fortune500/068_delta-air-lines.txt:{Northwest}
+fortune500/068_delta-air-lines.txt:{Delta}
+fortune500/069_nationwide.txt:{Nationwide}
+fortune500/070_johnson-controls.txt:{Johnson Controls}
+fortune500/070_johnson-controls.txt:{Tyco}
+fortune500/071_best-buy.txt:{Best Buy}
+fortune500/071_best-buy.txt:{Apple}
+fortune500/071_best-buy.txt:{Best Buy}
+fortune500/071_best-buy.txt:{Amazon}
+fortune500/071_best-buy.txt:{Best Buy}
+fortune500/071_best-buy.txt:{Macy’s}
+fortune500/072_merck.txt:{Merck}
+fortune500/073_liberty-mutual-insurance-group.txt:{Liberty Mutual}
+fortune500/074_goldman-sachs-group.txt:{Goldman Sachs}
+fortune500/074_goldman-sachs-group.txt:{Goldman}
+fortune500/075_honeywell-international.txt:{United Technologies}
+fortune500/075_honeywell-international.txt:{Boeing}
+fortune500/075_honeywell-international.txt:{Airbus}
+fortune500/075_honeywell-international.txt:{Honeywell}
+fortune500/075_honeywell-international.txt:{GE}
+fortune500/076_massachusetts-mutual-life.txt:{MassMutual}
+fortune500/076_massachusetts-mutual-life.txt:{MetLife}
+fortune500/076_massachusetts-mutual-life.txt:{MassMutual}
+fortune500/077_oracle.txt:{Oracle}
+fortune500/077_oracle.txt:{Amazon}
+fortune500/077_oracle.txt:{Microsoft}
+fortune500/077_oracle.txt:{Oracle}
+fortune500/078_morgan-stanley.txt:{Morgan Stanley}
+fortune500/079_cigna.txt:{Anthem}
+fortune500/079_cigna.txt:{Cigna}
+fortune500/079_cigna.txt:{Anthem}
+fortune500/080_united-continental-holdings.txt:{United}
+fortune500/080_united-continental-holdings.txt:{Continental}
+fortune500/080_united-continental-holdings.txt:{Frontier}
+fortune500/080_united-continental-holdings.txt:{Alaska Airlines}
+fortune500/080_united-continental-holdings.txt:{United}
+fortune500/081_allstate.txt:{Allstate}
+fortune500/081_allstate.txt:{Northbrook}
+fortune500/082_tiaa.txt:{Teachers Insurance and Annuity Association}
+fortune500/082_tiaa.txt:{TIAA}
+fortune500/083_intl-fcstone.txt:{INTL FCStone}
+fortune500/084_chs.txt:{CHS}
+fortune500/085_american-express.txt:{American Express}
+fortune500/085_american-express.txt:{Costco}
+fortune500/085_american-express.txt:{Amex}
+fortune500/085_american-express.txt:{American Express}
+fortune500/086_gilead-sciences.txt:{Gilead}
+fortune500/087_publix-super-markets.txt:{Publix}
+fortune500/088_general-dynamics.txt:{General Dynamics}
+fortune500/089_tjx.txt:{Marshalls}
+fortune500/089_tjx.txt:{T.J. Maxx}
+fortune500/089_tjx.txt:{HomeGoods}
+fortune500/089_tjx.txt:{TJX}
+fortune500/089_tjx.txt:{Macy’s}
+fortune500/089_tjx.txt:{Nordstrom}
+fortune500/089_tjx.txt:{TJX}
+fortune500/090_conocophillips.txt:{ConocoPhillips}
+fortune500/091_nike.txt:{Nike}
+fortune500/092_world-fuel-services.txt:{World Fuel Services}
+fortune500/092_world-fuel-services.txt:{Apple}
+fortune500/092_world-fuel-services.txt:{WFS}
+fortune500/093_3m.txt:{3M}
+fortune500/094_mondelez-international.txt:{Mondelez}
+fortune500/095_exelon.txt:{Exelon}
+fortune500/095_exelon.txt:{Unicom}
+fortune500/095_exelon.txt:{PECO}
+fortune500/096_twenty-first-century-fox.txt:{FOX}
+fortune500/096_twenty-first-century-fox.txt:{21st Century Fox}
+fortune500/096_twenty-first-century-fox.txt:{Fox}
+fortune500/097_deere.txt:{Deere}
+fortune500/098_tesoro.txt:{Tesoro}
+fortune500/098_tesoro.txt:{Shell}
+fortune500/098_tesoro.txt:{Exxon}
+fortune500/098_tesoro.txt:{Mobil}
+fortune500/098_tesoro.txt:{USA Gasoline}
+fortune500/098_tesoro.txt:{ARCO}
+fortune500/098_tesoro.txt:{Great Northern Midstream}
+fortune500/099_time-warner.txt:{Time Warner}
+fortune500/100_northwestern-mutual.txt:{Northwestern Mutual}
+fortune500/100_northwestern-mutual.txt:{LearnVest}
+fortune500_wiki/101_Du_Pont_Motors_wiki.txt:{Du Pont Motors}
+fortune500_wiki/101_Du_Pont_Motors_wiki.txt:{Du Pont Motor}
+fortune500_wiki/101_Du_Pont_Motors_wiki.txt:{Du Pont}
+fortune500_wiki/102_Avnet_wiki.txt:{Avnet}
+fortune500_wiki/102_Avnet_wiki.txt:{Bell Microelectronics}
+fortune500_wiki/102_Avnet_wiki.txt:{Tech Data}
+fortune500_wiki/102_Avnet_wiki.txt:{Aunet}
+fortune500_wiki/102_Avnet_wiki.txt:{Avnet}
+fortune500_wiki/102_Avnet_wiki.txt:{Premier Farnell}
+fortune500_wiki/103_Macy%27s_wiki.txt:{Macy's}
+fortune500_wiki/103_Macy%27s_wiki.txt:{Macy's,Inc}
+fortune500_wiki/103_Macy%27s_wiki.txt:{Macy's}
+fortune500_wiki/104_Enterprise_Products_wiki.txt:{Enterprise Products Partners L.P.}
+fortune500_wiki/104_Enterprise_Products_wiki.txt:{GulfTerra}
+fortune500_wiki/105_The_Travelers_Companies_wiki.txt:{The Travelers Companies}
+fortune500_wiki/105_The_Travelers_Companies_wiki.txt:{Travelers}
+fortune500_wiki/105_The_Travelers_Companies_wiki.txt:{Dow Jones Industrial Average}
+fortune500_wiki/105_The_Travelers_Companies_wiki.txt:{Travelers}
+fortune500_wiki/106_Philip_Morris_International_wiki.txt:{Philip Morris International Inc.}
+fortune500_wiki/106_Philip_Morris_International_wiki.txt:{Philip Morris International}
+fortune500_wiki/106_Philip_Morris_International_wiki.txt:{Altria Group}
+fortune500_wiki/106_Philip_Morris_International_wiki.txt:{Altria}
+fortune500_wiki/106_Philip_Morris_International_wiki.txt:{PMI}
+fortune500_wiki/106_Philip_Morris_International_wiki.txt:{Altria}
+fortune500_wiki/106_Philip_Morris_International_wiki.txt:{PMI}
+fortune500_wiki/106_Philip_Morris_International_wiki.txt:{Altria}
+fortune500_wiki/106_Philip_Morris_International_wiki.txt:{Philip Morris}
+fortune500_wiki/107_Rite_Aid_wiki.txt:{Rite Aid Corporation}
+fortune500_wiki/107_Rite_Aid_wiki.txt:{CVS}
+fortune500_wiki/107_Rite_Aid_wiki.txt:{Walgreens}
+fortune500_wiki/108_Tech_Data_wiki.txt:{Tech Data Corporation}
+fortune500_wiki/108_Tech_Data_wiki.txt:{Tech Data}
+fortune500_wiki/108_Tech_Data_wiki.txt:{Apple}
+fortune500_wiki/108_Tech_Data_wiki.txt:{Cisco}
+fortune500_wiki/108_Tech_Data_wiki.txt:{HP}
+fortune500_wiki/108_Tech_Data_wiki.txt:{IBM}
+fortune500_wiki/108_Tech_Data_wiki.txt:{Lenovo}
+fortune500_wiki/108_Tech_Data_wiki.txt:{Microsoft}
+fortune500_wiki/108_Tech_Data_wiki.txt:{Sony}
+fortune500_wiki/108_Tech_Data_wiki.txt:{Symantec}
+fortune500_wiki/108_Tech_Data_wiki.txt:{VMware}
+fortune500_wiki/108_Tech_Data_wiki.txt:{Tech Data}
+fortune500_wiki/108_Tech_Data_wiki.txt:{Tech Data Corporation}
+fortune500_wiki/108_Tech_Data_wiki.txt:{Tech Data}
+fortune500_wiki/109_McDonald%27s_wiki.txt:{McDonald's}
+fortune500_wiki/109_McDonald%27s_wiki.txt:{McD}
+fortune500_wiki/109_McDonald%27s_wiki.txt:{McDonald's}
+fortune500_wiki/109_McDonald%27s_wiki.txt:{Walmart}
+fortune500_wiki/110_Sears_Holdings_wiki.txt:{Sears Holdings Corporation}
+fortune500_wiki/110_Sears_Holdings_wiki.txt:{Sears Holdings}
+fortune500_wiki/111_EMC_Motorcycles_wiki.txt:{EMC Motorcycles}
+fortune500_wiki/111_EMC_Motorcycles_wiki.txt:{Ehrlich Motor Co}
+fortune500_wiki/111_EMC_Motorcycles_wiki.txt:{EMC}
+fortune500_wiki/112_Capital_One_wiki.txt:{Capital One Financial Corporation}
+fortune500_wiki/112_Capital_One_wiki.txt:{Capital One}
+fortune500_wiki/112_Capital_One_wiki.txt:{Capital One Financial}
+fortune500_wiki/112_Capital_One_wiki.txt:{United States Postal Service}
+fortune500_wiki/113_USAA_wiki.txt:{Moody's Investors Service Aaa}
+fortune500_wiki/113_USAA_wiki.txt:{United Services Automobile Association}
+fortune500_wiki/113_USAA_wiki.txt:{USAA}
+fortune500_wiki/114_Qualcomm_wiki.txt:{Qualcomm}
+fortune500_wiki/114_Qualcomm_wiki.txt:{Qualcomm Incorporated}
+fortune500_wiki/114_Qualcomm_wiki.txt:{Qualcomm}
+fortune500_wiki/114_Qualcomm_wiki.txt:{Qualcomm Technologies, Inc.}
+fortune500_wiki/114_Qualcomm_wiki.txt:{Qualcomm}
+fortune500_wiki/115_Duke_Energy_wiki.txt:{Duke Energy}
+fortune500_wiki/116_Time_Warner_Cable_wiki.txt:{Time Warner Cable}
+fortune500_wiki/116_Time_Warner_Cable_wiki.txt:{TWC}
+fortune500_wiki/116_Time_Warner_Cable_wiki.txt:{Charter Communications}
+fortune500_wiki/116_Time_Warner_Cable_wiki.txt:{Warner Communications}
+fortune500_wiki/116_Time_Warner_Cable_wiki.txt:{Time Warner}
+fortune500_wiki/116_Time_Warner_Cable_wiki.txt:{Time Warner Cable}
+fortune500_wiki/116_Time_Warner_Cable_wiki.txt:{Comcast Corporation}
+fortune500_wiki/116_Time_Warner_Cable_wiki.txt:{Charter Communications}
+fortune500_wiki/116_Time_Warner_Cable_wiki.txt:{Time Warner Cable}
+fortune500_wiki/116_Time_Warner_Cable_wiki.txt:{Bright House Networks}
+fortune500_wiki/116_Time_Warner_Cable_wiki.txt:{Charter}
+fortune500_wiki/117_Halliburton_wiki.txt:{The Halliburton Company}
+fortune500_wiki/117_Halliburton_wiki.txt:{Energy Services Group}
+fortune500_wiki/117_Halliburton_wiki.txt:{ESG}
+fortune500_wiki/117_Halliburton_wiki.txt:{KBR}
+fortune500_wiki/118_Northrop_Grumman_wiki.txt:{Northrop Grumman Corporation}
+fortune500_wiki/118_Northrop_Grumman_wiki.txt:{Northrop Grumman}
+fortune500_wiki/119_Arrow_Electronics_wiki.txt:{Arrow Electronics}
+fortune500_wiki/120_Plains_All_American_Pipeline_wiki.txt:{Plains All American Pipeline}
+fortune500_wiki/120_Plains_All_American_Pipeline_wiki.txt:{Plains GP Holdings, L.P.}
+fortune500_wiki/120_Plains_All_American_Pipeline_wiki.txt:{Plains GP}
+fortune500_wiki/120_Plains_All_American_Pipeline_wiki.txt:{Plains}
+fortune500_wiki/121_Raytheon_wiki.txt:{Raytheon Company}
+fortune500_wiki/121_Raytheon_wiki.txt:{Raytheon}
+fortune500_wiki/122_US_Foods_wiki.txt:{US Foods}
+fortune500_wiki/122_US_Foods_wiki.txt:{Sysco Corp}
+fortune500_wiki/122_US_Foods_wiki.txt:{US Foods}
+fortune500_wiki/122_US_Foods_wiki.txt:{Sysco-US Foods}
+fortune500_wiki/122_US_Foods_wiki.txt:{Sysco}
+fortune500_wiki/122_US_Foods_wiki.txt:{US Foods}
+fortune500_wiki/123_AbbVie_Inc._wiki.txt:{AbbVie}
+fortune500_wiki/123_AbbVie_Inc._wiki.txt:{Abbott Laboratories.PharmacyclicsStemcentrx}
+fortune500_wiki/124_Centene_Corporation_wiki.txt:{Centene Corporation}
+fortune500_wiki/124_Centene_Corporation_wiki.txt:{Centene}
+fortune500_wiki/125_Alcoa_wiki.txt:{Alcoa Inc.}
+fortune500_wiki/125_Alcoa_wiki.txt:{Alcoa}
+fortune500_wiki/125_Alcoa_wiki.txt:{Alcan}
+fortune500_wiki/125_Alcoa_wiki.txt:{Rio Tinto}
+fortune500_wiki/125_Alcoa_wiki.txt:{Alcoa}
+fortune500_wiki/125_Alcoa_wiki.txt:{Arconic.}
+fortune500_wiki/126_International_Paper_wiki.txt:{The International Paper Company}
+fortune500_wiki/127_Community_Health_Systems_wiki.txt:{Community Health Systems Inc.}
+fortune500_wiki/127_Community_Health_Systems_wiki.txt:{Quorum Health Resources}
+fortune500_wiki/127_Community_Health_Systems_wiki.txt:{Quorum Health Corporation}
+fortune500_wiki/127_Community_Health_Systems_wiki.txt:{Quorum}
+fortune500_wiki/127_Community_Health_Systems_wiki.txt:{Smallcap}
+fortune500_wiki/128_Union_Pacific_Railroad_wiki.txt:{The Union Pacific Railroad}
+fortune500_wiki/128_Union_Pacific_Railroad_wiki.txt:{Union Pacific Railroad}
+fortune500_wiki/128_Union_Pacific_Railroad_wiki.txt:{Union Pacific Corporation}
+fortune500_wiki/128_Union_Pacific_Railroad_wiki.txt:{Missouri Pacific}
+fortune500_wiki/128_Union_Pacific_Railroad_wiki.txt:{Chicago & North Western}
+fortune500_wiki/128_Union_Pacific_Railroad_wiki.txt:{Western Pacific}
+fortune500_wiki/128_Union_Pacific_Railroad_wiki.txt:{Missouri-Kansas-Texas}
+fortune500_wiki/128_Union_Pacific_Railroad_wiki.txt:{Southern Pacific}
+fortune500_wiki/128_Union_Pacific_Railroad_wiki.txt:{Denver & Rio Grande Western}
+fortune500_wiki/128_Union_Pacific_Railroad_wiki.txt:{BNSF Railway}
+fortune500_wiki/129_Amgen_wiki.txt:{Amgen Inc.}
+fortune500_wiki/129_Amgen_wiki.txt:{Applied Molecular Genetics Inc.}
+fortune500_wiki/129_Amgen_wiki.txt:{Amgen}
+fortune500_wiki/130_U.S._Bancorp_wiki.txt:{U.S. Bancorp}
+fortune500_wiki/130_U.S._Bancorp_wiki.txt:{U.S. Bank National Association}
+fortune500_wiki/130_U.S._Bancorp_wiki.txt:{U.S. Bank}
+fortune500_wiki/131_Staples_Inc._wiki.txt:{Staples, Inc.}
+fortune500_wiki/131_Staples_Inc._wiki.txt:{Officenet-Staples}
+fortune500_wiki/131_Staples_Inc._wiki.txt:{Staples Office Centre}
+fortune500_wiki/131_Staples_Inc._wiki.txt:{Staples Canada}
+fortune500_wiki/131_Staples_Inc._wiki.txt:{Mondoffice}
+fortune500_wiki/131_Staples_Inc._wiki.txt:{Staples}
+fortune500_wiki/132_Emerson_Electric_wiki.txt:{The Emerson Electric Company}
+fortune500_wiki/133_Danaher_Corporation_wiki.txt:{The Danaher Corporation}
+fortune500_wiki/134_Whirlpool_Corporation_wiki.txt:{The Whirlpool Corporation}
+fortune500_wiki/134_Whirlpool_Corporation_wiki.txt:{Whirlpool Corporation}
+fortune500_wiki/134_Whirlpool_Corporation_wiki.txt:{Whirlpool}
+fortune500_wiki/135_Aflac_wiki.txt:{Aflac Inc.}
+fortune500_wiki/135_Aflac_wiki.txt:{American Family Life Assurance Company}
+fortune500_wiki/135_Aflac_wiki.txt:{Aflac}
+fortune500_wiki/135_Aflac_wiki.txt:{Continental American Insurance Company}
+fortune500_wiki/135_Aflac_wiki.txt:{Aflac}
+fortune500_wiki/136_AutoNation_wiki.txt:{AutoNation}
+fortune500_wiki/137_Progressive_Corporation_wiki.txt:{The Progressive Corporation}
+fortune500_wiki/138_Abbott_Laboratories_wiki.txt:{Abbott Laboratories}
+fortune500_wiki/138_Abbott_Laboratories_wiki.txt:{Abbott Alkaloidal Company}
+fortune500_wiki/138_Abbott_Laboratories_wiki.txt:{Abbott}
+fortune500_wiki/139_Dollar_General_wiki.txt:{Dollar General Corporation}
+fortune500_wiki/139_Dollar_General_wiki.txt:{Dollar General}
+fortune500_wiki/139_Dollar_General_wiki.txt:{Interco, Inc.}
+fortune500_wiki/139_Dollar_General_wiki.txt:{Dollar General}
+fortune500_wiki/139_Dollar_General_wiki.txt:{Family Dollar}
+fortune500_wiki/139_Dollar_General_wiki.txt:{Dollar Tree}
+fortune500_wiki/139_Dollar_General_wiki.txt:{Dollar General}
+fortune500_wiki/140_Tenet_Healthcare_wiki.txt:{Tenet Healthcare Corporation}
+fortune500_wiki/140_Tenet_Healthcare_wiki.txt:{Conifer Health Solutions}
+fortune500_wiki/140_Tenet_Healthcare_wiki.txt:{Vanguard Health Systems, Inc.}
+fortune500_wiki/141_Eli_Lilly_and_Company_wiki.txt:{Eli Lilly}
+fortune500_wiki/141_Eli_Lilly_and_Company_wiki.txt:{Lilly}
+fortune500_wiki/142_Southwest_Airlines_wiki.txt:{Southwest Airlines Co.}
+fortune500_wiki/142_Southwest_Airlines_wiki.txt:{Southwest Airlines}
+fortune500_wiki/143_Penske_Automotive_Group_wiki.txt:{Penske Automotive Group}
+fortune500_wiki/144_ManpowerGroup_wiki.txt:{ManpowerGroup}
+fortune500_wiki/144_ManpowerGroup_wiki.txt:{ManPower Inc.}
+fortune500_wiki/144_ManpowerGroup_wiki.txt:{Manpower}
+fortune500_wiki/145_Kohl%27s_wiki.txt:{The Kohl's Corporation}
+fortune500_wiki/145_Kohl%27s_wiki.txt:{Kohl's}
+fortune500_wiki/145_Kohl%27s_wiki.txt:{British American Tobacco Company}
+fortune500_wiki/145_Kohl%27s_wiki.txt:{British-American Tobacco}
+fortune500_wiki/145_Kohl%27s_wiki.txt:{Kohl's}
+fortune500_wiki/146_Starbucks_wiki.txt:{Starbucks Corporation}
+fortune500_wiki/146_Starbucks_wiki.txt:{Starbucks}
+fortune500_wiki/147_Paccar_wiki.txt:{PACCAR Inc.}
+fortune500_wiki/147_Paccar_wiki.txt:{PACCAR, Inc}
+fortune500_wiki/148_Cummins_wiki.txt:{Cummins, Inc.}
+fortune500_wiki/148_Cummins_wiki.txt:{Cummins}
+fortune500_wiki/149_Altria_Group,_Inc._v._Good_wiki.txt:{Altria Group v. Good}
+fortune500_wiki/150_Xerox_wiki.txt:{Xerox Corporation}
+fortune500_wiki/150_Xerox_wiki.txt:{Xerox}
+fortune500_wiki/150_Xerox_wiki.txt:{XEROX}
+fortune500_wiki/150_Xerox_wiki.txt:{Xerox}
+fortune500_wiki/150_Xerox_wiki.txt:{Affiliated Computer Services}
+fortune500_wiki/150_Xerox_wiki.txt:{Xerox}
+fortune500_wiki/150_Xerox_wiki.txt:{Xerox Corporation}
+fortune500_wiki/150_Xerox_wiki.txt:{Xerox}
+fortune500_wiki/150_Xerox_wiki.txt:{Conduent Incorporated}
+fortune500_wiki/150_Xerox_wiki.txt:{Xerox}
+fortune500_wiki/150_Xerox_wiki.txt:{Apple}
+fortune500_wiki/150_Xerox_wiki.txt:{Microsoft}
+fortune500_wiki/150_Xerox_wiki.txt:{Apple}
+fortune500_wiki/150_Xerox_wiki.txt:{Microsoft}
+fortune500_wiki/150_Xerox_wiki.txt:{Xerox}
+fortune500_wiki/151_Kimberly-Clark_wiki.txt:{Kimberly-Clark Corporation}
+fortune500_wiki/151_Kimberly-Clark_wiki.txt:{Kimberly-Clark}
+fortune500_wiki/152_The_Hartford_wiki.txt:{The Hartford Financial Services Group, Inc.}
+fortune500_wiki/152_The_Hartford_wiki.txt:{The Hartford}
+fortune500_wiki/153_Kraft_Heinz_wiki.txt:{The Kraft Heinz Company}
+fortune500_wiki/153_Kraft_Heinz_wiki.txt:{Kraft Foods Group}
+fortune500_wiki/153_Kraft_Heinz_wiki.txt:{Heinz}
+fortune500_wiki/153_Kraft_Heinz_wiki.txt:{Kraft Heinz}
+fortune500_wiki/153_Kraft_Heinz_wiki.txt:{Kraft Heinz Company}
+fortune500_wiki/154_Lear_Corporation_wiki.txt:{Lear Corporation}
+fortune500_wiki/154_Lear_Corporation_wiki.txt:{Lear}
+fortune500_wiki/154_Lear_Corporation_wiki.txt:{Lear Corporation}
+fortune500_wiki/154_Lear_Corporation_wiki.txt:{Lear}
+fortune500_wiki/154_Lear_Corporation_wiki.txt:{United Technologies Automotive}
+fortune500_wiki/154_Lear_Corporation_wiki.txt:{United Technologies Corporation}
+fortune500_wiki/154_Lear_Corporation_wiki.txt:{Lear}
+fortune500_wiki/154_Lear_Corporation_wiki.txt:{Wuppertal}
+fortune500_wiki/154_Lear_Corporation_wiki.txt:{Lear}
+fortune500_wiki/154_Lear_Corporation_wiki.txt:{Lear Corporation}
+fortune500_wiki/154_Lear_Corporation_wiki.txt:{Lear}
+fortune500_wiki/154_Lear_Corporation_wiki.txt:{Lear Corp}
+fortune500_wiki/154_Lear_Corporation_wiki.txt:{Lear}
+fortune500_wiki/154_Lear_Corporation_wiki.txt:{Guilford Mills}
+fortune500_wiki/154_Lear_Corporation_wiki.txt:{Guilford}
+fortune500_wiki/154_Lear_Corporation_wiki.txt:{Lear Corp}
+fortune500_wiki/154_Lear_Corporation_wiki.txt:{Eagle Ottawa LLC}
+fortune500_wiki/154_Lear_Corporation_wiki.txt:{Lear Corp}
+fortune500_wiki/155_Fluor_Corporation_wiki.txt:{Fluor Corporation}
+fortune500_wiki/155_Fluor_Corporation_wiki.txt:{Fluor}
+fortune500_wiki/155_Fluor_Corporation_wiki.txt:{Fluor Construction Company}
+fortune500_wiki/155_Fluor_Corporation_wiki.txt:{Fluor}
+fortune500_wiki/156_AECOM_wiki.txt:{AECOM}
+fortune500_wiki/156_AECOM_wiki.txt:{AECOM Technology Corporation}
+fortune500_wiki/156_AECOM_wiki.txt:{AECOM}
+fortune500_wiki/156_AECOM_wiki.txt:{AECOM Technology Corporation}
+fortune500_wiki/156_AECOM_wiki.txt:{AECOM}
+fortune500_wiki/157_Jabil_Circuit_wiki.txt:{Jabil Circuit, Inc.}
+fortune500_wiki/158_CenturyLink_wiki.txt:{CenturyLink, Inc.}
+fortune500_wiki/159_Facebook_wiki.txt:{Facebook}
+fortune500_wiki/159_Facebook_wiki.txt:{Facebook, Inc.}
+fortune500_wiki/159_Facebook_wiki.txt:{Facebook}
+fortune500_wiki/159_Facebook_wiki.txt:{Apple Inc}
+fortune500_wiki/159_Facebook_wiki.txt:{Microsoft}
+fortune500_wiki/159_Facebook_wiki.txt:{Facebook}
+fortune500_wiki/159_Facebook_wiki.txt:{Microsoft}
+fortune500_wiki/159_Facebook_wiki.txt:{Facebook}
+fortune500_wiki/159_Facebook_wiki.txt:{Microsoft}
+fortune500_wiki/159_Facebook_wiki.txt:{Facebook}
+fortune500_wiki/159_Facebook_wiki.txt:{Sun Microsystems}
+fortune500_wiki/159_Facebook_wiki.txt:{Facebook}
+fortune500_wiki/159_Facebook_wiki.txt:{Google}
+fortune500_wiki/159_Facebook_wiki.txt:{Facebook}
+fortune500_wiki/160_SuperValu_(United_States)_wiki.txt:{SuperValu, Inc.}
+fortune500_wiki/160_SuperValu_(United_States)_wiki.txt:{Albertsons, Inc.}
+fortune500_wiki/160_SuperValu_(United_States)_wiki.txt:{SuperValu}
+fortune500_wiki/160_SuperValu_(United_States)_wiki.txt:{Albertsons}
+fortune500_wiki/160_SuperValu_(United_States)_wiki.txt:{SuperValu}
+fortune500_wiki/161_General_Mills_wiki.txt:{General Mills, Inc.}
+fortune500_wiki/162_NextEra_Energy_Resources_wiki.txt:{NextEra Energy Resources}
+fortune500_wiki/162_NextEra_Energy_Resources_wiki.txt:{NextEra Energy}
+fortune500_wiki/162_NextEra_Energy_Resources_wiki.txt:{NextEra Energy Resources}
+fortune500_wiki/162_NextEra_Energy_Resources_wiki.txt:{FPL Energy}
+fortune500_wiki/162_NextEra_Energy_Resources_wiki.txt:{NER}
+fortune500_wiki/162_NextEra_Energy_Resources_wiki.txt:{NextEra Energy Resources}
+fortune500_wiki/162_NextEra_Energy_Resources_wiki.txt:{NER}
+fortune500_wiki/163_Thermo_Fisher_Scientific_wiki.txt:{Thermo Fisher Scientific}
+fortune500_wiki/163_Thermo_Fisher_Scientific_wiki.txt:{Thermo Electron}
+fortune500_wiki/163_Thermo_Fisher_Scientific_wiki.txt:{Fisher Scientific}
+fortune500_wiki/163_Thermo_Fisher_Scientific_wiki.txt:{Thermo Fisher}
+fortune500_wiki/163_Thermo_Fisher_Scientific_wiki.txt:{Life Technologies Corp}
+fortune500_wiki/164_Southern_Airways_wiki.txt:{Southern Airways}
+fortune500_wiki/164_Southern_Airways_wiki.txt:{North Central Airlines}
+fortune500_wiki/164_Southern_Airways_wiki.txt:{Republic Airlines}
+fortune500_wiki/164_Southern_Airways_wiki.txt:{Northwest Airlines}
+fortune500_wiki/164_Southern_Airways_wiki.txt:{Delta Air Lines}
+fortune500_wiki/164_Southern_Airways_wiki.txt:{Southern}
+fortune500_wiki/165_American_Electric_Power_wiki.txt:{American Electric Power}
+fortune500_wiki/165_American_Electric_Power_wiki.txt:{AEP}
+fortune500_wiki/165_American_Electric_Power_wiki.txt:{American Electric Power}
+fortune500_wiki/166_Pacific_Gas_and_Electric_Company_wiki.txt:{The Pacific Gas and Electric Company}
+fortune500_wiki/166_Pacific_Gas_and_Electric_Company_wiki.txt:{PG&E}
+fortune500_wiki/166_Pacific_Gas_and_Electric_Company_wiki.txt:{Pacific Gas & Electric Building}
+fortune500_wiki/166_Pacific_Gas_and_Electric_Company_wiki.txt:{PG&E}
+fortune500_wiki/166_Pacific_Gas_and_Electric_Company_wiki.txt:{PG&E Corporation}
+fortune500_wiki/167_Energy_Transfer_Partners_wiki.txt:{Energy Transfer Partners}
+fortune500_wiki/167_Energy_Transfer_Partners_wiki.txt:{Dakota Access, LLC}
+fortune500_wiki/168_Bristol-Myers_Squibb_wiki.txt:{Bristol-Myers Squibb}
+fortune500_wiki/168_Bristol-Myers_Squibb_wiki.txt:{BMS}
+fortune500_wiki/168_Bristol-Myers_Squibb_wiki.txt:{Bristol-Myers Squibb}
+fortune500_wiki/168_Bristol-Myers_Squibb_wiki.txt:{BMS}
+fortune500_wiki/168_Bristol-Myers_Squibb_wiki.txt:{The Squibb}
+fortune500_wiki/168_Bristol-Myers_Squibb_wiki.txt:{Squibb}
+fortune500_wiki/168_Bristol-Myers_Squibb_wiki.txt:{Bristol-Myers}
+fortune500_wiki/168_Bristol-Myers_Squibb_wiki.txt:{Cheplin Biological Laboratories}
+fortune500_wiki/168_Bristol-Myers_Squibb_wiki.txt:{Squibb}
+fortune500_wiki/168_Bristol-Myers_Squibb_wiki.txt:{Bristol-Myers}
+fortune500_wiki/168_Bristol-Myers_Squibb_wiki.txt:{Bristol-Myers Squibb}
+fortune500_wiki/169_Goodyear_Tire_and_Rubber_Company_wiki.txt:{The Goodyear Tire & Rubber Company}
+fortune500_wiki/169_Goodyear_Tire_and_Rubber_Company_wiki.txt:{Goodyear}
+fortune500_wiki/170_Nucor_wiki.txt:{Nucor Corporation}
+fortune500_wiki/170_Nucor_wiki.txt:{Nucor}
+fortune500_wiki/171_PNC_Financial_Services_wiki.txt:{PNC Financial Services Group, Inc.}
+fortune500_wiki/171_PNC_Financial_Services_wiki.txt:{PNC}
+fortune500_wiki/172_Health_Net_wiki.txt:{Health Net, Inc.}
+fortune500_wiki/172_Health_Net_wiki.txt:{Health Net}
+fortune500_wiki/172_Health_Net_wiki.txt:{St. Louis-based Centene}
+fortune500_wiki/172_Health_Net_wiki.txt:{Health Net}
+fortune500_wiki/173_Micron_Technology_wiki.txt:{Micron Technology, Inc.}
+fortune500_wiki/173_Micron_Technology_wiki.txt:{Crucial Technology}
+fortune500_wiki/173_Micron_Technology_wiki.txt:{Lexar}
+fortune500_wiki/173_Micron_Technology_wiki.txt:{Micron}
+fortune500_wiki/173_Micron_Technology_wiki.txt:{Intel}
+fortune500_wiki/173_Micron_Technology_wiki.txt:{Micron}
+fortune500_wiki/173_Micron_Technology_wiki.txt:{Micron Technology}
+fortune500_wiki/174_Colgate-Palmolive_wiki.txt:{The Colgate-Palmolive Company}
+fortune500_wiki/175_Freeport-McMoRan_wiki.txt:{Freeport-McMoRan Inc.}
+fortune500_wiki/175_Freeport-McMoRan_wiki.txt:{FMCG}
+fortune500_wiki/175_Freeport-McMoRan_wiki.txt:{Freeport}
+fortune500_wiki/176_Conagra_Brands_wiki.txt:{Conagra Brands Inc.}
+fortune500_wiki/176_Conagra_Brands_wiki.txt:{Conagra}
+fortune500_wiki/177_Gap_Inc._wiki.txt:{The Gap, Inc.}
+fortune500_wiki/177_Gap_Inc._wiki.txt:{Gap Inc.}
+fortune500_wiki/177_Gap_Inc._wiki.txt:{Gap}
+fortune500_wiki/177_Gap_Inc._wiki.txt:{GAP}
+fortune500_wiki/177_Gap_Inc._wiki.txt:{Gap Inc.}
+fortune500_wiki/177_Gap_Inc._wiki.txt:{Gap}
+fortune500_wiki/178_Baker_Hughes_wiki.txt:{Baker Hughes}
+fortune500_wiki/179_The_Bank_of_New_York_Mellon_wiki.txt:{The Bank of New York Mellon Corporation}
+fortune500_wiki/179_The_Bank_of_New_York_Mellon_wiki.txt:{BNY Mellon}
+fortune500_wiki/179_The_Bank_of_New_York_Mellon_wiki.txt:{The Bank of New York and Mellon Financial Corporation}
+fortune500_wiki/179_The_Bank_of_New_York_Mellon_wiki.txt:{BNY Mellon}
+fortune500_wiki/179_The_Bank_of_New_York_Mellon_wiki.txt:{The Bank of New York}
+fortune500_wiki/180_Dollar_Tree_wiki.txt:{Dollar Tree, Inc.}
+fortune500_wiki/180_Dollar_Tree_wiki.txt:{Dollar Tree}
+fortune500_wiki/180_Dollar_Tree_wiki.txt:{Dollar Bills}
+fortune500_wiki/180_Dollar_Tree_wiki.txt:{Dollar Tree}
+fortune500_wiki/181_Whole_Foods_Market_wiki.txt:{Whole Foods Market Inc.}
+fortune500_wiki/182_PPG_Industries_wiki.txt:{PPG Industries, Inc.}
+fortune500_wiki/183_Genuine_Parts_Company_wiki.txt:{Genuine Parts Company}
+fortune500_wiki/183_Genuine_Parts_Company_wiki.txt:{GPC}
+fortune500_wiki/184_Icahn_Enterprises_wiki.txt:{Icahn Enterprises}
+fortune500_wiki/185_Performance_Food_Group_wiki.txt:{Performance Food Group}
+fortune500_wiki/185_Performance_Food_Group_wiki.txt:{Wellspring Capital Management}
+fortune500_wiki/185_Performance_Food_Group_wiki.txt:{Blackstone Group for}
+fortune500_wiki/185_Performance_Food_Group_wiki.txt:{Vistar}
+fortune500_wiki/185_Performance_Food_Group_wiki.txt:{Roma Foods}
+fortune500_wiki/185_Performance_Food_Group_wiki.txt:{PFG}
+fortune500_wiki/186_Omnicom_Group_wiki.txt:{Omnicom Group, Inc.}
+fortune500_wiki/186_Omnicom_Group_wiki.txt:{Omnicom}
+fortune500_wiki/186_Omnicom_Group_wiki.txt:{Omnicom Group}
+fortune500_wiki/186_Omnicom_Group_wiki.txt:{Omnicom}
+fortune500_wiki/187_Dish_Network_wiki.txt:{Dish Network}
+fortune500_wiki/188_FirstEnergy_wiki.txt:{FirstEnergy Corporation}
+fortune500_wiki/188_FirstEnergy_wiki.txt:{FirstEnergy}
+fortune500_wiki/189_AES_Corporation_wiki.txt:{Roger SantCharles Rossotti, ChairmanThe AES Corporation}
+fortune500_wiki/189_AES_Corporation_wiki.txt:{AES}
+fortune500_wiki/190_Monsanto_wiki.txt:{Monsanto Company}
+fortune500_wiki/190_Monsanto_wiki.txt:{Monsanto}
+fortune500_wiki/190_Monsanto_wiki.txt:{American Viscose}
+fortune500_wiki/190_Monsanto_wiki.txt:{Courtaulds}
+fortune500_wiki/190_Monsanto_wiki.txt:{Monsanto}
+fortune500_wiki/190_Monsanto_wiki.txt:{Mobay}
+fortune500_wiki/190_Monsanto_wiki.txt:{Monsanto}
+fortune500_wiki/190_Monsanto_wiki.txt:{Searle & Company}
+fortune500_wiki/190_Monsanto_wiki.txt:{Monsanto}
+fortune500_wiki/190_Monsanto_wiki.txt:{Eli Lilly and Company}
+fortune500_wiki/190_Monsanto_wiki.txt:{Monsanto}
+fortune500_wiki/190_Monsanto_wiki.txt:{Agracetus}
+fortune500_wiki/190_Monsanto_wiki.txt:{Monsanto}
+fortune500_wiki/190_Monsanto_wiki.txt:{Dekalb}
+fortune500_wiki/190_Monsanto_wiki.txt:{Monsanto}
+fortune500_wiki/190_Monsanto_wiki.txt:{Cargill}
+fortune500_wiki/190_Monsanto_wiki.txt:{Seminis Inc}
+fortune500_wiki/190_Monsanto_wiki.txt:{Monsanto}
+fortune500_wiki/190_Monsanto_wiki.txt:{NutraSweet}
+fortune500_wiki/190_Monsanto_wiki.txt:{Monsanto}
+fortune500_wiki/190_Monsanto_wiki.txt:{Pharmacia}
+fortune500_wiki/190_Monsanto_wiki.txt:{Upjohn}
+fortune500_wiki/190_Monsanto_wiki.txt:{Monsanto}
+fortune500_wiki/190_Monsanto_wiki.txt:{Emergent Genetics}
+fortune500_wiki/190_Monsanto_wiki.txt:{Stoneville}
+fortune500_wiki/190_Monsanto_wiki.txt:{NexGen}
+fortune500_wiki/190_Monsanto_wiki.txt:{Emergent}
+fortune500_wiki/190_Monsanto_wiki.txt:{Monsanto}
+fortune500_wiki/190_Monsanto_wiki.txt:{Seminis}
+fortune500_wiki/190_Monsanto_wiki.txt:{Monsanto}
+fortune500_wiki/190_Monsanto_wiki.txt:{Delta}
+fortune500_wiki/190_Monsanto_wiki.txt:{Pine Land Company}
+fortune500_wiki/190_Monsanto_wiki.txt:{Monsanto}
+fortune500_wiki/190_Monsanto_wiki.txt:{Bayer}
+fortune500_wiki/190_Monsanto_wiki.txt:{Americot}
+fortune500_wiki/190_Monsanto_wiki.txt:{Monsanto}
+fortune500_wiki/190_Monsanto_wiki.txt:{Monsanto Choice Genetics}
+fortune500_wiki/190_Monsanto_wiki.txt:{Newsham Genetics LC}
+fortune500_wiki/190_Monsanto_wiki.txt:{Monsanto}
+fortune500_wiki/190_Monsanto_wiki.txt:{BASF}
+fortune500_wiki/190_Monsanto_wiki.txt:{Monsanto}
+fortune500_wiki/190_Monsanto_wiki.txt:{Dutch}
+fortune500_wiki/190_Monsanto_wiki.txt:{De Ruiter Seeds}
+fortune500_wiki/190_Monsanto_wiki.txt:{Elanco Animal Health}
+fortune500_wiki/190_Monsanto_wiki.txt:{Eli Lilly & Co}
+fortune500_wiki/190_Monsanto_wiki.txt:{Monsanto}
+fortune500_wiki/190_Monsanto_wiki.txt:{Precision Planting Inc.}
+fortune500_wiki/190_Monsanto_wiki.txt:{Monsanto}
+fortune500_wiki/190_Monsanto_wiki.txt:{Syngenta}
+fortune500_wiki/190_Monsanto_wiki.txt:{Monsanto}
+fortune500_wiki/190_Monsanto_wiki.txt:{Du Pont}
+fortune500_wiki/190_Monsanto_wiki.txt:{Monsanto}
+fortune500_wiki/190_Monsanto_wiki.txt:{Glyphosate}
+fortune500_wiki/190_Monsanto_wiki.txt:{Monsanto}
+fortune500_wiki/191_CarMax_wiki.txt:{CarMax}
+fortune500_wiki/191_CarMax_wiki.txt:{Chrysler}
+fortune500_wiki/191_CarMax_wiki.txt:{Mitsubishi}
+fortune500_wiki/191_CarMax_wiki.txt:{Toyota}
+fortune500_wiki/191_CarMax_wiki.txt:{CarMax}
+fortune500_wiki/191_CarMax_wiki.txt:{Ford}
+fortune500_wiki/191_CarMax_wiki.txt:{BMW}
+fortune500_wiki/191_CarMax_wiki.txt:{Volvo}
+fortune500_wiki/191_CarMax_wiki.txt:{CarMax}
+fortune500_wiki/192_National_Oilwell_Varco_wiki.txt:{National Oilwell Varco}
+fortune500_wiki/192_National_Oilwell_Varco_wiki.txt:{NOV}
+fortune500_wiki/192_National_Oilwell_Varco_wiki.txt:{National Oilwell Varco}
+fortune500_wiki/192_National_Oilwell_Varco_wiki.txt:{NOV}
+fortune500_wiki/192_National_Oilwell_Varco_wiki.txt:{Houston Business Journal}
+fortune500_wiki/193_NRG_Energy_wiki.txt:{NRG Energy, Inc.}
+fortune500_wiki/193_NRG_Energy_wiki.txt:{Xcel Energy}
+fortune500_wiki/194_Western_Digital_wiki.txt:{Western Digital Corporation}
+fortune500_wiki/194_Western_Digital_wiki.txt:{Western Digital}
+fortune500_wiki/194_Western_Digital_wiki.txt:{WDC}
+fortune500_wiki/194_Western_Digital_wiki.txt:{WD}
+fortune500_wiki/194_Western_Digital_wiki.txt:{Seagate Technology}
+fortune500_wiki/194_Western_Digital_wiki.txt:{Western Digital Corporation}
+fortune500_wiki/194_Western_Digital_wiki.txt:{Western Digital}
+fortune500_wiki/194_Western_Digital_wiki.txt:{Motorola}
+fortune500_wiki/194_Western_Digital_wiki.txt:{General Digital}
+fortune500_wiki/194_Western_Digital_wiki.txt:{Emerson Electric}
+fortune500_wiki/195_Marriott_International_wiki.txt:{Marriott International, Inc.}
+fortune500_wiki/195_Marriott_International_wiki.txt:{Marriott International}
+fortune500_wiki/196_Office_Depot_wiki.txt:{Office Depot, Inc.}
+fortune500_wiki/196_Office_Depot_wiki.txt:{Office Depot}
+fortune500_wiki/196_Office_Depot_wiki.txt:{OfficeMax}
+fortune500_wiki/196_Office_Depot_wiki.txt:{Staples}
+fortune500_wiki/196_Office_Depot_wiki.txt:{Office Depot}
+fortune500_wiki/196_Office_Depot_wiki.txt:{Staples}
+fortune500_wiki/197_Nordstrom_wiki.txt:{Nordstrom, Inc.}
+fortune500_wiki/197_Nordstrom_wiki.txt:{Nordstrom}
+fortune500_wiki/197_Nordstrom_wiki.txt:{Nordstrom, Inc.}
+fortune500_wiki/198_Kinder_Morgan_wiki.txt:{Kinder Morgan}
+fortune500_wiki/199_Aramark_wiki.txt:{Aramark Corporation}
+fortune500_wiki/199_Aramark_wiki.txt:{Aramark}
+fortune500_wiki/200_DaVita_wiki.txt:{DaVita Inc.}
+fortune500_wiki/201_Molina_Healthcare_wiki.txt:{Molina Healthcare}
+fortune500_wiki/202_WellCare_wiki.txt:{WellCare Health Plans, Inc}
+fortune500_wiki/202_WellCare_wiki.txt:{WellCare}
+fortune500_wiki/202_WellCare_wiki.txt:{Wellcare Health Plans, Inc}
+fortune500_wiki/202_WellCare_wiki.txt:{WellCare}
+fortune500_wiki/202_WellCare_wiki.txt:{Staywell}
+fortune500_wiki/202_WellCare_wiki.txt:{HealthEase}
+fortune500_wiki/202_WellCare_wiki.txt:{Harmony}
+fortune500_wiki/202_WellCare_wiki.txt:{'Ohana}
+fortune500_wiki/203_CBS_wiki.txt:{CBS}
+fortune500_wiki/203_CBS_wiki.txt:{Tiffany & Co}
+fortune500_wiki/203_CBS_wiki.txt:{United Independent Broadcasters Inc.}
+fortune500_wiki/203_CBS_wiki.txt:{Columbia Broadcasting System}
+fortune500_wiki/203_CBS_wiki.txt:{CBS}
+fortune500_wiki/203_CBS_wiki.txt:{CBS, Inc}
+fortune500_wiki/203_CBS_wiki.txt:{Westinghouse Electric Corporation}
+fortune500_wiki/203_CBS_wiki.txt:{CBS Broadcasting, Inc.}
+fortune500_wiki/203_CBS_wiki.txt:{CBS Corporation}
+fortune500_wiki/203_CBS_wiki.txt:{CBS}
+fortune500_wiki/203_CBS_wiki.txt:{Viacom}
+fortune500_wiki/203_CBS_wiki.txt:{CBS}
+fortune500_wiki/203_CBS_wiki.txt:{Viacom}
+fortune500_wiki/203_CBS_wiki.txt:{CBS Corporation}
+fortune500_wiki/203_CBS_wiki.txt:{CBS}
+fortune500_wiki/203_CBS_wiki.txt:{CBS Corporation}
+fortune500_wiki/203_CBS_wiki.txt:{Sumner Redstone}
+fortune500_wiki/203_CBS_wiki.txt:{Viacom}
+fortune500_wiki/204_Visa_Inc._wiki.txt:{Visa Inc}
+fortune500_wiki/204_Visa_Inc._wiki.txt:{Visa}
+fortune500_wiki/204_Visa_Inc._wiki.txt:{VISA}
+fortune500_wiki/204_Visa_Inc._wiki.txt:{Visa}
+fortune500_wiki/204_Visa_Inc._wiki.txt:{VisaNet}
+fortune500_wiki/205_Lincoln_National_Corporation_wiki.txt:{Lincoln National Corporation}
+fortune500_wiki/205_Lincoln_National_Corporation_wiki.txt:{Lincoln Financial Group}
+fortune500_wiki/205_Lincoln_National_Corporation_wiki.txt:{LNC}
+fortune500_wiki/206_Ecolab_wiki.txt:{Ecolab Inc}
+fortune500_wiki/206_Ecolab_wiki.txt:{Economics Laboratory}
+fortune500_wiki/206_Ecolab_wiki.txt:{Ecolab}
+fortune500_wiki/207_Kellogg%27s_wiki.txt:{Kellogg Company}
+fortune500_wiki/207_Kellogg%27s_wiki.txt:{Kellogg's}
+fortune500_wiki/207_Kellogg%27s_wiki.txt:{Kellogg}
+fortune500_wiki/207_Kellogg%27s_wiki.txt:{Kellogg's of Battle Creek}
+fortune500_wiki/207_Kellogg%27s_wiki.txt:{Kellogg's}
+fortune500_wiki/208_C._H._Robinson_wiki.txt:{C.H. Robinson}
+fortune500_wiki/209_Textron_wiki.txt:{Textron}
+fortune500_wiki/209_Textron_wiki.txt:{Bell Helicopter}
+fortune500_wiki/209_Textron_wiki.txt:{Cessna Aircraft}
+fortune500_wiki/209_Textron_wiki.txt:{Beechcraft}
+fortune500_wiki/209_Textron_wiki.txt:{Special Yarns Company}
+fortune500_wiki/209_Textron_wiki.txt:{Textron}
+fortune500_wiki/210_Loews_Corporation_wiki.txt:{Loews Corporation}
+fortune500_wiki/210_Loews_Corporation_wiki.txt:{CNA Financial Corporation}
+fortune500_wiki/210_Loews_Corporation_wiki.txt:{Diamond Offshore Drilling}
+fortune500_wiki/210_Loews_Corporation_wiki.txt:{Boardwalk Pipeline Partners}
+fortune500_wiki/210_Loews_Corporation_wiki.txt:{Loews Hotels}
+fortune500_wiki/210_Loews_Corporation_wiki.txt:{Loews}
+fortune500_wiki/211_Illinois_Tool_Works_wiki.txt:{Illinois Tool Works Inc.}
+fortune500_wiki/211_Illinois_Tool_Works_wiki.txt:{ITW}
+fortune500_wiki/212_Synnex_wiki.txt:{SYNNEX Corporation}
+fortune500_wiki/212_Synnex_wiki.txt:{Synnex}
+fortune500_wiki/212_Synnex_wiki.txt:{SYNNEX}
+fortune500_wiki/212_Synnex_wiki.txt:{ Jack of All Games}
+fortune500_wiki/212_Synnex_wiki.txt:{Take-Two Interactive}
+fortune500_wiki/213_Viacom_wiki.txt:{Viacom, Inc}
+fortune500_wiki/213_Viacom_wiki.txt:{Viacom}
+fortune500_wiki/213_Viacom_wiki.txt:{viacom}
+fortune500_wiki/213_Viacom_wiki.txt:{Comcast}
+fortune500_wiki/213_Viacom_wiki.txt:{The Walt Disney Company}
+fortune500_wiki/213_Viacom_wiki.txt:{Time Warner}
+fortune500_wiki/213_Viacom_wiki.txt:{CBS Corporation}
+fortune500_wiki/213_Viacom_wiki.txt:{21st Century Fox}
+fortune500_wiki/213_Viacom_wiki.txt:{Viacom}
+fortune500_wiki/213_Viacom_wiki.txt:{National Amusements, Inc}
+fortune500_wiki/213_Viacom_wiki.txt:{CBS Corporation}
+fortune500_wiki/214_HollyFrontier_wiki.txt:{The HollyFrontier Corporation}
+fortune500_wiki/214_HollyFrontier_wiki.txt:{HollyFrontier}
+fortune500_wiki/215_Land_O%27Lakes_wiki.txt:{Land O'Lakes, Inc}
+fortune500_wiki/216_Devon_Energy_wiki.txt:{Devon Energy Corporation}
+fortune500_wiki/217_PBF_Energy_wiki.txt:{PBF Energy}
+fortune500_wiki/217_PBF_Energy_wiki.txt:{PBF}
+fortune500_wiki/217_PBF_Energy_wiki.txt:{Petroplus Holdings}
+fortune500_wiki/217_PBF_Energy_wiki.txt:{Blackstone Group}
+fortune500_wiki/217_PBF_Energy_wiki.txt:{First Reserve}
+fortune500_wiki/217_PBF_Energy_wiki.txt:{Petroplus}
+fortune500_wiki/217_PBF_Energy_wiki.txt:{PBF}
+fortune500_wiki/217_PBF_Energy_wiki.txt:{Valero Energy}
+fortune500_wiki/217_PBF_Energy_wiki.txt:{PBF}
+fortune500_wiki/217_PBF_Energy_wiki.txt:{Sunoco}
+fortune500_wiki/217_PBF_Energy_wiki.txt:{PBF}
+fortune500_wiki/218_Yum!_Brands_wiki.txt:{Yum! Brands, Inc}
+fortune500_wiki/218_Yum!_Brands_wiki.txt:{Yum!}
+fortune500_wiki/218_Yum!_Brands_wiki.txt:{Tricon Global Restaurants, Inc}
+fortune500_wiki/218_Yum!_Brands_wiki.txt:{Yum}
+fortune500_wiki/218_Yum!_Brands_wiki.txt:{Taco Bell}
+fortune500_wiki/218_Yum!_Brands_wiki.txt:{KFC}
+fortune500_wiki/218_Yum!_Brands_wiki.txt:{Pizza Hut}
+fortune500_wiki/218_Yum!_Brands_wiki.txt:{WingStreet}
+fortune500_wiki/218_Yum!_Brands_wiki.txt:{Yum!}
+fortune500_wiki/218_Yum!_Brands_wiki.txt:{Long John Silver's}
+fortune500_wiki/218_Yum!_Brands_wiki.txt:{A&W Restaurants}
+fortune500_wiki/219_Texas_Instruments_wiki.txt:{Texas Instruments Inc}
+fortune500_wiki/219_Texas_Instruments_wiki.txt:{TI}
+fortune500_wiki/219_Texas_Instruments_wiki.txt:{Texas Instruments}
+fortune500_wiki/219_Texas_Instruments_wiki.txt:{TI}
+fortune500_wiki/219_Texas_Instruments_wiki.txt:{Texas Instruments}
+fortune500_wiki/220_CDW_wiki.txt:{CDW Corporation}
+fortune500_wiki/220_CDW_wiki.txt:{CDW-G}
+fortune500_wiki/221_Waste_Management_(corporation)_wiki.txt:{Waste Management, Inc}
+fortune500_wiki/221_Waste_Management_(corporation)_wiki.txt:{Waste Management}
+fortune500_wiki/221_Waste_Management_(corporation)_wiki.txt:{Republic Services, Inc}
+fortune500_wiki/222_Marsh_%26_McLennan_Companies_wiki.txt:{Marsh & McLennan Companies, Inc}
+fortune500_wiki/222_Marsh_%26_McLennan_Companies_wiki.txt:{Marsh & McLennan Companies}
+fortune500_wiki/222_Marsh_%26_McLennan_Companies_wiki.txt:{Bloomberg}
+fortune500_wiki/223_Chesapeake_Energy_wiki.txt:{Chesapeake Energy Corporation}
+fortune500_wiki/223_Chesapeake_Energy_wiki.txt:{SandRidge Energy}
+fortune500_wiki/224_Parker_Hannifin_wiki.txt:{Parker Hannifin Corporation}
+fortune500_wiki/224_Parker_Hannifin_wiki.txt:{Parker Appliance Company}
+fortune500_wiki/224_Parker_Hannifin_wiki.txt:{Parker}
+fortune500_wiki/225_Occidental_Petroleum_wiki.txt:{ntal Petroleum Corporation}
+fortune500_wiki/225_Occidental_Petroleum_wiki.txt:{Oxy}
+fortune500_wiki/226_Guardian_Life_Insurance_Company_of_America_wiki.txt:{The Guardian Life Insurance Company of America}
+fortune500_wiki/226_Guardian_Life_Insurance_Company_of_America_wiki.txt:{Guardian}
+fortune500_wiki/227_Farmers_Insurance_Group_wiki.txt:{Farmers Insurance Group}
+fortune500_wiki/227_Farmers_Insurance_Group_wiki.txt:{Farmers}
+fortune500_wiki/227_Farmers_Insurance_Group_wiki.txt:{Farmers Insurance}
+fortune500_wiki/228_J._C._Penney_wiki.txt:{The J. C. Penney Company}
+fortune500_wiki/228_J._C._Penney_wiki.txt:{JCPenney}
+fortune500_wiki/228_J._C._Penney_wiki.txt:{Sephora}
+fortune500_wiki/228_J._C._Penney_wiki.txt:{Seattle's Best Coffee}
+fortune500_wiki/228_J._C._Penney_wiki.txt:{JCPenney}
+fortune500_wiki/229_Consolidated_Edison_wiki.txt:{Consolidated Edison, Inc}
+fortune500_wiki/229_Consolidated_Edison_wiki.txt:{Con Edison}
+fortune500_wiki/229_Consolidated_Edison_wiki.txt:{Con Ed}
+fortune500_wiki/230_VF_Corporation_wiki.txt:{VF Corporation}
+fortune500_wiki/230_VF_Corporation_wiki.txt:{Jansport}
+fortune500_wiki/230_VF_Corporation_wiki.txt:{Eastpak}
+fortune500_wiki/230_VF_Corporation_wiki.txt:{Timberland}
+fortune500_wiki/230_VF_Corporation_wiki.txt:{North Face}
+fortune500_wiki/231_Ameriprise_Financial_wiki.txt:{Ameriprise Financial, Inc}
+fortune500_wiki/231_Ameriprise_Financial_wiki.txt:{Ameriprise Financial Services, Inc}
+fortune500_wiki/231_Ameriprise_Financial_wiki.txt:{Columbia Management Investment Advisers, LLC}
+fortune500_wiki/231_Ameriprise_Financial_wiki.txt:{RiverSource Life Insurance Company}
+fortune500_wiki/231_Ameriprise_Financial_wiki.txt:{Threadneedle Asset Management}
+fortune500_wiki/231_Ameriprise_Financial_wiki.txt:{Ameriprise Financial}
+fortune500_wiki/232_Cognizant_wiki.txt:{Cognizant}
+fortune500_wiki/232_Cognizant_wiki.txt:{Dun & Bradstreet}
+fortune500_wiki/233_Computer_Sciences_Corporation_wiki.txt:{Computer Sciences Corporation}
+fortune500_wiki/233_Computer_Sciences_Corporation_wiki.txt:{CSC}
+fortune500_wiki/233_Computer_Sciences_Corporation_wiki.txt:{Computer Sciences Corp}
+fortune500_wiki/233_Computer_Sciences_Corporation_wiki.txt:{CSC}
+fortune500_wiki/233_Computer_Sciences_Corporation_wiki.txt:{Enterprise Services}
+fortune500_wiki/233_Computer_Sciences_Corporation_wiki.txt:{Hewlett Packard Enterprise}
+fortune500_wiki/233_Computer_Sciences_Corporation_wiki.txt:{HPE}
+fortune500_wiki/233_Computer_Sciences_Corporation_wiki.txt:{DXC Technology}
+fortune500_wiki/234_L_Brands_wiki.txt:{L Brands Inc}
+fortune500_wiki/234_L_Brands_wiki.txt:{Limited Brands Inc}
+fortune500_wiki/234_L_Brands_wiki.txt:{The Limited Inc}
+fortune500_wiki/235_Jacobs_Engineering_Group_wiki.txt:{Jacobs Engineering Group Inc}
+fortune500_wiki/236_Principal_Financial_Group_wiki.txt:{The Principal Financial Group}
+fortune500_wiki/236_Principal_Financial_Group_wiki.txt:{Principal}
+fortune500_wiki/236_Principal_Financial_Group_wiki.txt:{Principal Financial Group}
+fortune500_wiki/237_Ross_Dress_for_Less_wiki.txt:{Ross Stores, Inc}
+fortune500_wiki/237_Ross_Dress_for_Less_wiki.txt:{Ross Dress for Less}
+fortune500_wiki/237_Ross_Dress_for_Less_wiki.txt:{Ross}
+fortune500_wiki/238_Bed_Bath_%26_Beyond_wiki.txt:{Bed Bath & Beyond Inc}
+fortune500_wiki/238_Bed_Bath_%26_Beyond_wiki.txt:{Linens 'n Things}
+fortune500_wiki/238_Bed_Bath_%26_Beyond_wiki.txt:{Bed Bath & Beyond}
+fortune500_wiki/238_Bed_Bath_%26_Beyond_wiki.txt:{Walmart}
+fortune500_wiki/238_Bed_Bath_%26_Beyond_wiki.txt:{Target}
+fortune500_wiki/238_Bed_Bath_%26_Beyond_wiki.txt:{J. C. Penney}
+fortune500_wiki/238_Bed_Bath_%26_Beyond_wiki.txt:{Pier 1 Imports}
+fortune500_wiki/238_Bed_Bath_%26_Beyond_wiki.txt:{Crate & Barrel}
+fortune500_wiki/238_Bed_Bath_%26_Beyond_wiki.txt:{IKEA}
+fortune500_wiki/238_Bed_Bath_%26_Beyond_wiki.txt:{Williams-Sonoma}
+fortune500_wiki/238_Bed_Bath_%26_Beyond_wiki.txt:{Pottery Barn}
+fortune500_wiki/238_Bed_Bath_%26_Beyond_wiki.txt:{West Elm}
+fortune500_wiki/239_CSX_Corporation_wiki.txt:{CSX Corporation}
+fortune500_wiki/239_CSX_Corporation_wiki.txt:{Chessie System}
+fortune500_wiki/239_CSX_Corporation_wiki.txt:{Seaboard Coast Line Industries}
+fortune500_wiki/239_CSX_Corporation_wiki.txt:{CSX Transportation}
+fortune500_wiki/239_CSX_Corporation_wiki.txt:{CSX Corporation}
+fortune500_wiki/239_CSX_Corporation_wiki.txt:{CSX Transportation}
+fortune500_wiki/239_CSX_Corporation_wiki.txt:{Fruit Growers Express}
+fortune500_wiki/239_CSX_Corporation_wiki.txt:{CSX Technology}
+fortune500_wiki/239_CSX_Corporation_wiki.txt:{CSX de Mexico}
+fortune500_wiki/239_CSX_Corporation_wiki.txt:{CSX Real Property}
+fortune500_wiki/239_CSX_Corporation_wiki.txt:{CSX Corporation}
+fortune500_wiki/240_Toys_%22R%22_Us_wiki.txt:{Toys "R" Us, Inc}
+fortune500_wiki/241_Las_Vegas_Sands_wiki.txt:{Las Vegas Sands Corporation}
+fortune500_wiki/241_Las_Vegas_Sands_wiki.txt:{Sands Casino Resort Bethlehem}
+fortune500_wiki/242_Leucadia_National_wiki.txt:{Leucadia National Corporation}
+fortune500_wiki/242_Leucadia_National_wiki.txt:{Berkshire Hathaway}
+fortune500_wiki/243_Dominion_Energy_wiki.txt:{Dominion Energy, Inc}
+fortune500_wiki/243_Dominion_Energy_wiki.txt:{Dominion}
+fortune500_wiki/245_L3_Technologies_wiki.txt:{L3 Technologies}
+fortune500_wiki/245_L3_Technologies_wiki.txt:{L-3 Communications Holdings}
+fortune500_wiki/245_L3_Technologies_wiki.txt:{L3}
+fortune500_wiki/246_Edison_International_wiki.txt:{national is}
+fortune500_wiki/246_Edison_International_wiki.txt:{Southern California Edison}
+fortune500_wiki/246_Edison_International_wiki.txt:{Edison Energy}
+fortune500_wiki/246_Edison_International_wiki.txt:{Edison}
+fortune500_wiki/246_Edison_International_wiki.txt:{Holt & Knupps}
+fortune500_wiki/247_Entergy_Corp._v._Riverkeeper_Inc._wiki.txt:{Entergy v. Riverkeeper}
+fortune500_wiki/248_Automatic_Data_Processing_wiki.txt:{ADP, LLC}
+fortune500_wiki/248_Automatic_Data_Processing_wiki.txt:{ADP}
+fortune500_wiki/249_First_Data_wiki.txt:{First Data Corporation}
+fortune500_wiki/249_First_Data_wiki.txt:{First Data}
+fortune500_wiki/249_First_Data_wiki.txt:{Starbucks}
+fortune500_wiki/249_First_Data_wiki.txt:{USA Today}
+fortune500_wiki/249_First_Data_wiki.txt:{ESPN}
+fortune500_wiki/249_First_Data_wiki.txt:{The New York Times}
+fortune500_wiki/249_First_Data_wiki.txt:{Vox}
+fortune500_wiki/249_First_Data_wiki.txt:{First Data}
+fortune500_wiki/250_BlackRock_wiki.txt:{BlackRock, Inc}
+fortune500_wiki/250_BlackRock_wiki.txt:{BlackRock}
+fortune500_wiki/250_BlackRock_wiki.txt:{Blackrock}
+fortune500_wiki/251_WestRock_wiki.txt:{WestRock}
+fortune500_wiki/251_WestRock_wiki.txt:{MeadWestvaco}
+fortune500_wiki/251_WestRock_wiki.txt:{RockTenn}
+fortune500_wiki/251_WestRock_wiki.txt:{MeadWestvaco}
+fortune500_wiki/251_WestRock_wiki.txt:{Rock-Tenn}
+fortune500_wiki/252_Voya_Financial_wiki.txt:{Voya Financial}
+fortune500_wiki/252_Voya_Financial_wiki.txt:{Voya}
+fortune500_wiki/252_Voya_Financial_wiki.txt:{ING U.S.}
+fortune500_wiki/252_Voya_Financial_wiki.txt:{ING Group}
+fortune500_wiki/252_Voya_Financial_wiki.txt:{Voya Financial}
+fortune500_wiki/252_Voya_Financial_wiki.txt:{Voya}
+fortune500_wiki/253_Sherwin-Williams_wiki.txt:{The Sherwin-Williams Company}
+fortune500_wiki/253_Sherwin-Williams_wiki.txt:{Sherwin-Williams}
+fortune500_wiki/253_Sherwin-Williams_wiki.txt:{Valspar}
+fortune500_wiki/254_Hilton_Worldwide_wiki.txt:{Hilton}
+fortune500_wiki/254_Hilton_Worldwide_wiki.txt:{Hilton Hotels Corporation}
+fortune500_wiki/254_Hilton_Worldwide_wiki.txt:{Hilton Worldwide Holdings}
+fortune500_wiki/254_Hilton_Worldwide_wiki.txt:{Hilton Worldwide}
+fortune500_wiki/254_Hilton_Worldwide_wiki.txt:{Hilton}
+fortune500_wiki/255_RR_Donnelley_wiki.txt:{RR Donnelley}
+fortune500_wiki/256_Stanley_Black_%26_Decker_wiki.txt:{Stanley Black & Decker, Inc.}
+fortune500_wiki/256_Stanley_Black_%26_Decker_wiki.txt:{Stanley Works}
+fortune500_wiki/256_Stanley_Black_%26_Decker_wiki.txt:{Stanley Black & Decker}
+fortune500_wiki/256_Stanley_Black_%26_Decker_wiki.txt:{Stanley Works}
+fortune500_wiki/256_Stanley_Black_%26_Decker_wiki.txt:{Black & Decker}
+fortune500_wiki/257_Xcel_Energy_wiki.txt:{Xcel Energy Inc}
+fortune500_wiki/257_Xcel_Energy_wiki.txt:{Northern States Power-Minnesota}
+fortune500_wiki/257_Xcel_Energy_wiki.txt:{Northern States Power-Wisconsin}
+fortune500_wiki/257_Xcel_Energy_wiki.txt:{Public Service Company of Colorado}
+fortune500_wiki/257_Xcel_Energy_wiki.txt:{Southwestern Public Service Co.}
+fortune500_wiki/258_Murphy_USA_wiki.txt:{Murphy USA}
+fortune500_wiki/258_Murphy_USA_wiki.txt:{Murphy Oil}
+fortune500_wiki/258_Murphy_USA_wiki.txt:{Murphy USA}
+fortune500_wiki/258_Murphy_USA_wiki.txt:{Walmart}
+fortune500_wiki/258_Murphy_USA_wiki.txt:{Core-Mark International}
+fortune500_wiki/258_Murphy_USA_wiki.txt:{Murphy}
+fortune500_wiki/258_Murphy_USA_wiki.txt:{Murphy USA}
+fortune500_wiki/258_Murphy_USA_wiki.txt:{Walmart}
+fortune500_wiki/258_Murphy_USA_wiki.txt:{Murphy Express}
+fortune500_wiki/258_Murphy_USA_wiki.txt:{Murphy USA}
+fortune500_wiki/258_Murphy_USA_wiki.txt:{Murphy Express}
+fortune500_wiki/259_CBRE_Group_wiki.txt:{CBRE Group, Inc.}
+fortune500_wiki/259_CBRE_Group_wiki.txt:{ING}
+fortune500_wiki/259_CBRE_Group_wiki.txt:{CBRE}
+fortune500_wiki/260_D._R._Horton_wiki.txt:{D. R. Horton}
+fortune500_wiki/260_D._R._Horton_wiki.txt:{D.R. Horton}
+fortune500_wiki/260_D._R._Horton_wiki.txt:{D. R. Horton}
+fortune500_wiki/260_D._R._Horton_wiki.txt:{Emerald Homes}
+fortune500_wiki/260_D._R._Horton_wiki.txt:{Express Homes}
+fortune500_wiki/260_D._R._Horton_wiki.txt:{Freedom Homes}
+fortune500_wiki/260_D._R._Horton_wiki.txt:{Express Homes}
+fortune500_wiki/260_D._R._Horton_wiki.txt:{Emerald Homes}
+fortune500_wiki/260_D._R._Horton_wiki.txt:{D.R. Horton}
+fortune500_wiki/260_D._R._Horton_wiki.txt:{Freedom Homes}
+fortune500_wiki/261_Est%C3%A9e_Lauder_Companies_wiki.txt:{The Estée Lauder Companies Inc}
+fortune500_wiki/262_Praxair_wiki.txt:{Praxair, Inc.}
+fortune500_wiki/262_Praxair_wiki.txt:{Linde Air Products Company}
+fortune500_wiki/262_Praxair_wiki.txt:{Union Carbide and Carbon Corporation}
+fortune500_wiki/262_Praxair_wiki.txt:{Union Carbide Industrial Gases Inc}
+fortune500_wiki/262_Praxair_wiki.txt:{Praxair}
+fortune500_wiki/263_Biogen_wiki.txt:{Biogen, Inc}
+fortune500_wiki/263_Biogen_wiki.txt:{Biogen Idec}
+fortune500_wiki/263_Biogen_wiki.txt:{Biogen}
+fortune500_wiki/263_Biogen_wiki.txt:{San Diego}
+fortune500_wiki/263_Biogen_wiki.txt:{Biogen Idec}
+fortune500_wiki/263_Biogen_wiki.txt:{Biogen}
+fortune500_wiki/264_State_Street_Corporation_wiki.txt:{State Street Corporation}
+fortune500_wiki/264_State_Street_Corporation_wiki.txt:{State Street}
+fortune500_wiki/265_Unum_wiki.txt:{Unum Group}
+fortune500_wiki/265_Unum_wiki.txt:{UnumProvident}
+fortune500_wiki/265_Unum_wiki.txt:{Unum Group}
+fortune500_wiki/265_Unum_wiki.txt:{Unum Corporation}
+fortune500_wiki/265_Unum_wiki.txt:{The Provident Companies}
+fortune500_wiki/265_Unum_wiki.txt:{Unum US}
+fortune500_wiki/265_Unum_wiki.txt:{Unum UK}
+fortune500_wiki/265_Unum_wiki.txt:{Colonial Life}
+fortune500_wiki/265_Unum_wiki.txt:{The Paul Revere Life Insurance Company}
+fortune500_wiki/265_Unum_wiki.txt:{Provident Life and Accident Insurance Company}
+fortune500_wiki/265_Unum_wiki.txt:{Unum}
+fortune500_wiki/266_Reynolds_American_wiki.txt:{Reynolds American, Inc.}
+fortune500_wiki/266_Reynolds_American_wiki.txt:{AI}
+fortune500_wiki/266_Reynolds_American_wiki.txt:{R. J. Reynolds Tobacco Company}
+fortune500_wiki/266_Reynolds_American_wiki.txt:{American Snuff Company}
+fortune500_wiki/266_Reynolds_American_wiki.txt:{Conwood Company}
+fortune500_wiki/266_Reynolds_American_wiki.txt:{Santa Fe Natural Tobacco Company}
+fortune500_wiki/266_Reynolds_American_wiki.txt:{Niconovum AB}
+fortune500_wiki/267_Group_1_Automotive_wiki.txt:{Group 1 Automotive, Inc}
+fortune500_wiki/267_Group_1_Automotive_wiki.txt:{GPI}
+fortune500_wiki/267_Group_1_Automotive_wiki.txt:{Group 1}
+fortune500_wiki/267_Group_1_Automotive_wiki.txt:{Group 1 Automotive}
+fortune500_wiki/268_Henry_Schein_wiki.txt:{Henry Schein Inc}
+fortune500_wiki/268_Henry_Schein_wiki.txt:{Henry Schein}
+fortune500_wiki/269_The_Hertz_Corporation_wiki.txt:{The Hertz Corporation}
+fortune500_wiki/269_The_Hertz_Corporation_wiki.txt:{Hertz Global Holdings Inc}
+fortune500_wiki/269_The_Hertz_Corporation_wiki.txt:{Hertz}
+fortune500_wiki/270_Norfolk_southern_wiki.txt:{The Norfolk Southern Railway}
+fortune500_wiki/270_Norfolk_southern_wiki.txt:{Norfolk Southern Corporation}
+fortune500_wiki/271_Reinsurance_Group_of_America_wiki.txt:{Reinsurance Company}
+fortune500_wiki/271_Reinsurance_Group_of_America_wiki.txt:{Reinsurance Group of America}
+fortune500_wiki/271_Reinsurance_Group_of_America_wiki.txt:{RGA}
+fortune500_wiki/272_Public_Service_Enterprise_Group_wiki.txt:{Public Service Enterprise Group}
+fortune500_wiki/272_Public_Service_Enterprise_Group_wiki.txt:{PSEG}
+fortune500_wiki/272_Public_Service_Enterprise_Group_wiki.txt:{Public Service Corporation}
+fortune500_wiki/272_Public_Service_Enterprise_Group_wiki.txt:{Public Service Electric and Gas Company}
+fortune500_wiki/272_Public_Service_Enterprise_Group_wiki.txt:{PSE&G}
+fortune500_wiki/272_Public_Service_Enterprise_Group_wiki.txt:{Public Service Electric and Gas Company}
+fortune500_wiki/273_BB%26T_wiki.txt:{BB&T}
+fortune500_wiki/273_BB%26T_wiki.txt:{Branch Banking and Trust}
+fortune500_wiki/274_DTE_Energy_wiki.txt:{DTE Energy Co.}
+fortune500_wiki/274_DTE_Energy_wiki.txt:{DTE Energy}
+fortune500_wiki/274_DTE_Energy_wiki.txt:{DTE Electric Company}
+fortune500_wiki/274_DTE_Energy_wiki.txt:{Detroit Edison}
+fortune500_wiki/274_DTE_Energy_wiki.txt:{DTE Gas Company}
+fortune500_wiki/274_DTE_Energy_wiki.txt:{Michigan Consolidated Gas Company}
+fortune500_wiki/275_Assurant_wiki.txt:{Assurant, Inc}
+fortune500_wiki/275_Assurant_wiki.txt:{Fortis, Inc}
+fortune500_wiki/275_Assurant_wiki.txt:{Fortis Insurance N.V.}
+fortune500_wiki/275_Assurant_wiki.txt:{Assurant, Inc}
+fortune500_wiki/275_Assurant_wiki.txt:{Assurant}
+fortune500_wiki/276_Global_Partners_wiki.txt:{Global Partners LP}
+fortune500_wiki/276_Global_Partners_wiki.txt:{GLP}
+fortune500_wiki/276_Global_Partners_wiki.txt:{Global Partners}
+fortune500_wiki/277_Huntsman_Corporation_wiki.txt:{Huntsman Corporation}
+fortune500_wiki/277_Huntsman_Corporation_wiki.txt:{Huntsman}
+fortune500_wiki/277_Huntsman_Corporation_wiki.txt:{BMW}
+fortune500_wiki/277_Huntsman_Corporation_wiki.txt:{GE}
+fortune500_wiki/277_Huntsman_Corporation_wiki.txt:{Chevron}
+fortune500_wiki/277_Huntsman_Corporation_wiki.txt:{Procter & Gamble}
+fortune500_wiki/277_Huntsman_Corporation_wiki.txt:{Unilever}
+fortune500_wiki/277_Huntsman_Corporation_wiki.txt:{Huntsman Corporation}
+fortune500_wiki/278_Becton_Dickinson_wiki.txt:{Becton, Dickinson and Company}
+fortune500_wiki/278_Becton_Dickinson_wiki.txt:{BD}
+fortune500_wiki/278_Becton_Dickinson_wiki.txt:{BD Medical}
+fortune500_wiki/278_Becton_Dickinson_wiki.txt:{BD Diagnostics}
+fortune500_wiki/278_Becton_Dickinson_wiki.txt:{BD Biosciences}
+fortune500_wiki/278_Becton_Dickinson_wiki.txt:{BD}
+fortune500_wiki/278_Becton_Dickinson_wiki.txt:{CareFusion}
+fortune500_wiki/279_Sempra_Energy_wiki.txt:{Sempra Energy}
+fortune500_wiki/279_Sempra_Energy_wiki.txt:{California utilities}
+fortune500_wiki/279_Sempra_Energy_wiki.txt:{Southern California Gas Company}
+fortune500_wiki/279_Sempra_Energy_wiki.txt:{SoCalGas}
+fortune500_wiki/279_Sempra_Energy_wiki.txt:{San Diego Gas & Electric}
+fortune500_wiki/279_Sempra_Energy_wiki.txt:{SDG&E}
+fortune500_wiki/279_Sempra_Energy_wiki.txt:{Sempra Energy}
+fortune500_wiki/280_AutoZone_wiki.txt:{AutoZone}
+fortune500_wiki/280_AutoZone_wiki.txt:{Advance Auto Parts}
+fortune500_wiki/280_AutoZone_wiki.txt:{AutoZone}
+fortune500_wiki/281_Precision_Castparts_Corp._wiki.txt:{Precision Castparts Corp}
+fortune500_wiki/282_Navistar_International_wiki.txt:{Navistar International Corporation}
+fortune500_wiki/282_Navistar_International_wiki.txt:{International Harvester Company}
+fortune500_wiki/282_Navistar_International_wiki.txt:{Navistar}
+fortune500_wiki/282_Navistar_International_wiki.txt:{Navistar Financial Corporation}
+fortune500_wiki/283_Discover_Financial_Services_wiki.txt:{Discover Financial Services, Inc}
+fortune500_wiki/284_Liberty_Interactive_wiki.txt:{Liberty Interactive Corporation}
+fortune500_wiki/284_Liberty_Interactive_wiki.txt:{Liberty Interactive}
+fortune500_wiki/284_Liberty_Interactive_wiki.txt:{Chairman John C. Malone}
+fortune500_wiki/285_W._W._Grainger_wiki.txt:{W. W. Grainger, Inc}
+fortune500_wiki/285_W._W._Grainger_wiki.txt:{Grainger}
+fortune500_wiki/286_Baxter_International_wiki.txt:{Baxter International Inc}
+fortune500_wiki/286_Baxter_International_wiki.txt:{Baxter}
+fortune500_wiki/286_Baxter_International_wiki.txt:{Baxter International Inc}
+fortune500_wiki/287_Stryker_wiki.txt:{Stryker}
+fortune500_wiki/287_Stryker_wiki.txt:{General Dynamics Land Systems}
+fortune500_wiki/288_Air_Products_%26_Chemicals_wiki.txt:{Air Products and Chemicals, Inc}
+fortune500_wiki/288_Air_Products_%26_Chemicals_wiki.txt:{Air Products}
+fortune500_wiki/288_Air_Products_%26_Chemicals_wiki.txt:{Lehigh Valley}
+fortune500_wiki/288_Air_Products_%26_Chemicals_wiki.txt:{Lehigh Valley Hospital}
+fortune500_wiki/288_Air_Products_%26_Chemicals_wiki.txt:{St. Luke's Hospital}
+fortune500_wiki/288_Air_Products_%26_Chemicals_wiki.txt:{Air Products}
+fortune500_wiki/288_Air_Products_%26_Chemicals_wiki.txt:{Versum Materials}
+fortune500_wiki/289_Western_Refining_wiki.txt:{Western Refining, Inc}
+fortune500_wiki/289_Western_Refining_wiki.txt:{Western Refining}
+fortune500_wiki/289_Western_Refining_wiki.txt:{WNR}
+fortune500_wiki/289_Western_Refining_wiki.txt:{Western Refining}
+fortune500_wiki/290_Universal_Health_Services_wiki.txt:{Universal Health Services, Inc}
+fortune500_wiki/290_Universal_Health_Services_wiki.txt:{UHS}
+fortune500_wiki/291_Owens_%26_Minor_wiki.txt:{Owens & Minor}
+fortune500_wiki/291_Owens_%26_Minor_wiki.txt:{Owens & Minor, Inc}
+fortune500_wiki/291_Owens_%26_Minor_wiki.txt:{Owens and Minor}
+fortune500_wiki/291_Owens_%26_Minor_wiki.txt:{Owens & Minor}
+fortune500_wiki/292_Charter_Communications_wiki.txt:{Charter Communications}
+fortune500_wiki/292_Charter_Communications_wiki.txt:{Charter Spectrum}
+fortune500_wiki/292_Charter_Communications_wiki.txt:{Comcast}
+fortune500_wiki/292_Charter_Communications_wiki.txt:{Cablevision}
+fortune500_wiki/293_Advance_Auto_Parts_wiki.txt:{Advance Auto Parts}
+fortune500_wiki/293_Advance_Auto_Parts_wiki.txt:{General Parts Incorporated}
+fortune500_wiki/293_Advance_Auto_Parts_wiki.txt:{AAP}
+fortune500_wiki/293_Advance_Auto_Parts_wiki.txt:{Advance Auto Parts}
+fortune500_wiki/293_Advance_Auto_Parts_wiki.txt:{AutoPart International, Inc.}
+fortune500_wiki/293_Advance_Auto_Parts_wiki.txt:{Autopart International}
+fortune500_wiki/293_Advance_Auto_Parts_wiki.txt:{Advance Auto}
+fortune500_wiki/294_MasterCard_wiki.txt:{Mastercard Incorporated}
+fortune500_wiki/294_MasterCard_wiki.txt:{Mastercard Worldwide}
+fortune500_wiki/294_MasterCard_wiki.txt:{Mastercard}
+fortune500_wiki/294_MasterCard_wiki.txt:{Mastercard Worldwide}
+fortune500_wiki/294_MasterCard_wiki.txt:{MasterCard Worldwide}
+fortune500_wiki/294_MasterCard_wiki.txt:{Mastercard}
+fortune500_wiki/294_MasterCard_wiki.txt:{BankAmericard}
+fortune500_wiki/294_MasterCard_wiki.txt:{Bank of America}
+fortune500_wiki/294_MasterCard_wiki.txt:{Visa}
+fortune500_wiki/294_MasterCard_wiki.txt:{Visa Inc}
+fortune500_wiki/294_MasterCard_wiki.txt:{Mastercard}
+fortune500_wiki/295_Applied_Materials_wiki.txt:{Applied Materials, Inc}
+fortune500_wiki/296_Eastman_Chemical_Company_wiki.txt:{Eastman Chemical Company}
+fortune500_wiki/296_Eastman_Chemical_Company_wiki.txt:{Eastman Chemical}
+fortune500_wiki/296_Eastman_Chemical_Company_wiki.txt:{Eastman Kodak}
+fortune500_wiki/297_Sonic_Automotive_wiki.txt:{Sonic Automotive, Inc.}
+fortune500_wiki/297_Sonic_Automotive_wiki.txt:{Speedway Motorsports}
+fortune500_wiki/297_Sonic_Automotive_wiki.txt:{Sonic Automotive}
+fortune500_wiki/298_Ally_Financial_wiki.txt:{Ally Financial Inc}
+fortune500_wiki/298_Ally_Financial_wiki.txt:{GMAC Inc}
+fortune500_wiki/298_Ally_Financial_wiki.txt:{General Motors Acceptance Corporation}
+fortune500_wiki/298_Ally_Financial_wiki.txt:{Ally}
+fortune500_wiki/299_CST_Brands_wiki.txt:{CST Brands, Inc}
+fortune500_wiki/299_CST_Brands_wiki.txt:{CST Brands}
+fortune500_wiki/299_CST_Brands_wiki.txt:{Valero Energy Corporation}
+fortune500_wiki/299_CST_Brands_wiki.txt:{CST Brands}
+fortune500_wiki/299_CST_Brands_wiki.txt:{Lehigh Gas GP LLC}
+fortune500_wiki/299_CST_Brands_wiki.txt:{Lehigh Gas Partners LP}
+fortune500_wiki/299_CST_Brands_wiki.txt:{Lehigh Gas Corp}
+fortune500_wiki/299_CST_Brands_wiki.txt:{CST Brands}
+fortune500_wiki/299_CST_Brands_wiki.txt:{LGP}
+fortune500_wiki/299_CST_Brands_wiki.txt:{CrossAmerica Partners LP}
+fortune500_wiki/300_EBay_wiki.txt:{eBay Inc}
+fortune500_wiki/300_EBay_wiki.txt:{eBay}
+fortune500_wiki/300_EBay_wiki.txt:{Kijiji}
+fortune500_wiki/300_EBay_wiki.txt:{eBay}
+fortune500_wiki/300_EBay_wiki.txt:{StubHub}
+fortune500_wiki/300_EBay_wiki.txt:{PayPal}
+fortune500_wiki/300_EBay_wiki.txt:{eBay}
