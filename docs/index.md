@@ -8,10 +8,15 @@ Data mining over company data.
 - Wikipedia company brief introductions (text)
 
 ## Stage 1
-- Report
+- [Report](./reports/stage_one_report.pdf)
 
 ## Stage 2
-_Coming soon..._
+- [Report](./reports/CS838DataScienceprojectprogressreport-Stage2-2.pdf)
+- [All text documents](../dataset/labeled_texts/)
+- [Documents in set I](../dataset/labeled_texts/fortune500/)
+- [Documents in set J](../dataset/labeled_texts/fortune500_wiki/)
+- [Source code](../src/)
+- Coming soon..._
 
 ## Contacts
 - Jinman Zhao (jzhao237)
