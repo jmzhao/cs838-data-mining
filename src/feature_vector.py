@@ -5,7 +5,6 @@ import collections
 import logging
 from pprint import pprint
 import csv
-import pydotplus
 import numpy as np
 import sklearn as sk
 import sklearn.tree
@@ -150,11 +149,16 @@ for clfname, clf in clfs.items() :
         for ins, predict in zip(instances, Y_pred) :
             ins['predict'] = predict
             writer.writerow(ins)
-    if clfname == 'decision-tree' :
-        dot_data = sk.tree.export_graphviz(clf, out_file=None,
-                     feature_names=FeatureExtractor.FEATURES,
-                    #  class_names=iris.target_names,
-                     filled=True, rounded=True,
-                     special_characters=True)
-        graph = pydotplus.graph_from_dot_data(dot_data)
-        graph.write_png(clfname + '.png')
+    try :
+        import pydotplus
+        if clfname == 'decision-tree' :
+            dot_data = sk.tree.export_graphviz(clf, out_file=None,
+                         feature_names=FeatureExtractor.FEATURES,
+                        #  class_names=iris.target_names,
+                         filled=True, rounded=True,
+                         special_characters=True)
+            graph = pydotplus.graph_from_dot_data(dot_data)
+            graph.write_png(clfname + '.png')
+    except ImportError :
+        print("NO pyplotplus!")
+        pass
