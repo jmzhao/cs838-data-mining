@@ -11,7 +11,7 @@ Data mining over company data.
 - [Report](./reports/stage_one_report.pdf)
 
 ## Stage 2
-- [All text documents](../dataset/)
+- [All text documents](../dataset/labeled_texts/)
 - [Documents in set I](../dataset/labeled_texts/fortune500/)
 - [Documents in set J](../dataset/labeled_texts/fortune500_wiki/)
 - [Source code](../src/)
