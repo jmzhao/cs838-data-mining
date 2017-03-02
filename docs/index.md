@@ -12,10 +12,10 @@ Data mining over company data.
 
 ## Stage 2
 - [Report](./reports/CS838DataScienceprojectprogressreport-Stage2-2.pdf)
-- [All text documents](../dataset/labeled_texts/)
-- [Documents in set I](../dataset/labeled_texts/fortune500/)
-- [Documents in set J](../dataset/labeled_texts/fortune500_wiki/)
-- [Source code](../src/)
+- [All text documents](https://github.com/jmzhao/cs838-data-science/dataset/labeled_texts/)
+- [Documents in set I](https://github.com/jmzhao/cs838-data-science/dataset/labeled_texts/fortune500/)
+- [Documents in set J](https://github.com/jmzhao/cs838-data-science/dataset/labeled_texts/fortune500_wiki/)
+- [Source code](https://github.com/jmzhao/cs838-data-science/src/)
 - Coming soon..._
 
 ## Contacts
