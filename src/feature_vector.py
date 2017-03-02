@@ -64,6 +64,7 @@ class FeatureExtractor :
 
 instances = list()
 for fname in fnames :
+    print("Reading", fname)
     for i_line, line in enumerate(open(fname)) :
         line_words = line.split()
         for length in range(1, 4 + 1) :
@@ -71,8 +72,8 @@ for fname in fnames :
                 words = list(gram)
                 pres = line_words[max(0, i_word-2) : i_word]
                 afts = line_words[i_word + length : min(len(line_words), i_word + length + 1)]
-                label = '{' in words[0] and '}' in words[-1] and (len(words) == 1 or
-                    ('}' not in words[0] and '{' not in words[-1]))
+                label = '{' in words[0] and '}' in words[-1] and (
+                        all('{' not in word for word in words[1:]))
 
                 pres = [Preprocesser.preprocess(s) for s in pres]
                 words = [Preprocesser.preprocess(s) for s in words]
@@ -93,7 +94,7 @@ for fname in fnames :
                 instances.append(info)
 
 print("# Some instances")
-for ins in np.random.choice(instances, 20, replace=False) :
+for ins in np.random.choice(instances, 10, replace=False) :
     print(ins['str'])
     pprint(ins)
     print()
@@ -104,10 +105,10 @@ for ins in np.random.choice(instances, 20, replace=False) :
 #     ))
 print()
 
-random_indices = np.random.permutation(len(instances))
+#random_indices = np.random.permutation(len(instances))
 X = np.array([[ins['features'].get(f) for f in FeatureExtractor.FEATURES] for ins in instances], dtype='int')
 Y = np.array([ins['label'] for ins in instances])
-X , Y = X[random_indices], Y[random_indices]
+#X , Y = X[random_indices], Y[random_indices]
 
 print("X looks like:", X[:10])
 print("Y looks like:", Y[:10])
@@ -116,7 +117,7 @@ print(collections.Counter(Y))
 clfs = {
     'decision-tree' : sk.tree.DecisionTreeClassifier(criterion='entropy',
         min_weight_fraction_leaf=0.001,
-        class_weight={True: 1, False: 0.2}),
+        class_weight={True: 1, False: 1}),
     # 'random-forest' : sk.ensemble.RandomForestClassifier(criterion='entropy',
     #     min_weight_fraction_leaf=0.001,
     #     class_weight={True: 1, False: 0.2}),
