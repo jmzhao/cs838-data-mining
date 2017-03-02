@@ -8,7 +8,7 @@ Data mining over company data.
 - Wikipedia company brief introductions (text)
 
 ## Stage 1
-- Report
+- [Report](./reports/stage_one_report.pdf)
 
 ## Stage 2
 _Coming soon..._
