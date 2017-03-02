@@ -22,26 +22,31 @@ for data_dir in DATA_DIRS :
     for (dirpath, dirnames, filenames) in os.walk(data_dir) :
         fnames.extend(dirpath + fname for fname in filenames if '.txt' in fname)
 
+STOP_LIST = frozenset(s.strip() for s in open("SmartStoplist.txt"))
 SKIP_WORDS = ('of', 'and', 'the', 'to')
 
 class Preprocesser :
     TABLE = {
         '{' : '', '}' : '', ## eliminate {}
-        "'s'" : '', "s'" : 's', ## eliminate 's
+        "’": "'", "'""'s'" : '', "s'" : 's', ## eliminate 's
     }
     preprocess = functools.reduce(lambda f, kv : lambda s : f(s).replace(*kv), TABLE.items(), lambda s : s)
 
 class FeatureExtractor :
     FEATURES = (
-        'n-words', 'n-characters',
+        'n-words', #'n-characters',
+        'in-stop-list',
         'all-capitalized', 'all-inintial-capitalized',
         'no-pre-inintial-capitalized', 'no-aft-inintial-capitalized',
+        'no-skip-boundary',
         'common-ends', 'common-pres',
         'contain-hyphen', 'contain-ampersand',
+        'contain-seps', 'contain-digit', 'contain-strange',
         'sentence-start',
         )
     r_after = re.compile(r'\bcorporation|\bcorp\b|\bincorporation|\binc\b|\bcompany|\bco\b|\bllc\b')
     r_before = re.compile(r'\bacqui|\bbuy|\bbought|\bcompetit|\bformer|\bmerg|\bown|\brival|\bsell|\bsold')
+    r_digit = re.compile(r'\d')
 
     @staticmethod
     def extract_features(pres, words, afts) :
@@ -50,21 +55,26 @@ class FeatureExtractor :
         return {
             'n-words' : len(words),
             'n-characters' : len(s),
+            'in-stop-list' : len(words) == 1 and words[0].lower() in STOP_LIST,
             'all-capitalized' : all(w.isupper() or w in SKIP_WORDS for w in words),
             'all-inintial-capitalized' : all(w[0].isupper() or w in SKIP_WORDS for w in words),
             'no-pre-inintial-capitalized' : len(pres) == 0 or not pres[-1][0].isupper(),
             'no-aft-inintial-capitalized' : len(afts) == 0 or not afts[-1][0].isupper(),
+            'no-skip-boundary' : words[0] in SKIP_WORDS or words[-1] in SKIP_WORDS,
             'common-ends' : FeatureExtractor.r_after.search(s.lower()) is not None,
             'common-pres' : FeatureExtractor.r_before.search(p.lower()) is not None,
             'contain-hyphen' : '-' in s,
             'contain-ampersand' : '&' in s,
+            'contain-digit' : FeatureExtractor.r_digit.search(s) is not None,
+            'contain-seps' : any(c in s for c in ',.'),
+            'contain-strange' : any(c in s for c in '()[]%/\\<>^_'),
             'sentence-start' : len(pres) == 0 or pres[-1][-1] in '.!?',
         }
 
 
 instances = list()
 for fname in fnames :
-    print("Reading", fname)
+    # print("Reading", fname)
     for i_line, line in enumerate(open(fname)) :
         line_words = line.split()
         for length in range(1, 4 + 1) :
@@ -93,11 +103,11 @@ for fname in fnames :
                     continue
                 instances.append(info)
 
-print("# Some instances")
-for ins in np.random.choice(instances, 10, replace=False) :
-    print(ins['str'])
-    pprint(ins)
-    print()
+# print("# Some instances")
+# for ins in np.random.choice(instances, 10, replace=False) :
+#     print(ins['str'])
+#     pprint(ins)
+#     print()
 # print('\n\n'.join(
 #     '- "%s":\n'%(ins['str']) + '\n'.join(
 #         '%s: %s'%(k, v)
@@ -116,8 +126,8 @@ print(collections.Counter(Y))
 
 clfs = {
     'decision-tree' : sk.tree.DecisionTreeClassifier(criterion='entropy',
-        min_weight_fraction_leaf=0.001,
-        class_weight={True: 1, False: 1}),
+        # min_weight_fraction_leaf=0.001,
+        class_weight={True: 1, False: 0.2}),
     # 'random-forest' : sk.ensemble.RandomForestClassifier(criterion='entropy',
     #     min_weight_fraction_leaf=0.001,
     #     class_weight={True: 1, False: 0.2}),
