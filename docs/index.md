@@ -11,11 +11,11 @@ Data mining over company data.
 - [Report](./reports/stage_one_report.pdf)
 
 ## Stage 2
-- [Report](./reports/CS838DataScienceprojectprogressreport-Stage2-2.pdf)
-- [All text documents](../dataset/labeled_texts/)
-- [Documents in set I](../dataset/labeled_texts/fortune500/)
-- [Documents in set J](../dataset/labeled_texts/fortune500_wiki/)
-- [Source code](../src/)
+- [Report](./reports/stage_two_report.pdf)
+- [All text documents](https://github.com/jmzhao/cs838-data-science/tree/master/dataset/labeled_texts/)
+- [Documents in set I](https://github.com/jmzhao/cs838-data-science/tree/master/dataset/labeled_texts/fortune500)
+- [Documents in set J](https://github.com/jmzhao/cs838-data-science/tree/master/dataset/labeled_texts/fortune500_wiki)
+- [Source code](https://github.com/jmzhao/cs838-data-science/tree/master/src/)
 - Coming soon..._
 
 ## Contacts
