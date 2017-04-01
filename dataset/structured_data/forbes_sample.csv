@@ -1,0 +1,101 @@
+,id,Name,Country,Industry,Sales (M),Profits (M),Assets (M),MarketValue,Employee
+0,1,3i Group,United Kingdom,Investment Services,485,925,7500,6700,-
+1,2,3M,United States,Conglomerates,30300,4800,32700,102200,-
+2,3,4moms,United States,Consumer Durables,48 ,-,-,-,175
+3,4,77 Bank,Japan,Regional Banks,853,165,69100,1400,-
+4,5,84 Lumber,United States,Retailing,2500,-,-,-,4700
+5,6,9Round - 30 Minute Kickbox Fitness,United States,Services,4 ,-,-,-,14
+6,7,A. Schulman,U.S.,Chemicals,2392,27 ,2352,798 ,5000
+7,8,A.O. Smith,U.S.,"Electronics, Electrical Equip.",2537,283 ,2647,6706,13386
+8,9,Aareal Bank,Germany,Thrifts & Mortgage Finance,1400,389,57200,2100,-
+9,10,Aaron¨¹s,U.S.,Specialty Retailers: Other,3180,136 ,2659,1826,12700
+10,11,ABB,Switzerland,Conglomerates,35500,1900,41600,48100,-
+11,12,Abbott Laboratories,United States,Pharmaceuticals,20400,2400,41200,64900,-
+12,13,AbbVie,United States,Pharmaceuticals,22900,5100,53100,99400,-
+13,14,ABC Supply,United States,Construction,5900,-,-,-,8000
+14,15,Abercrombie & Fitch,U.S.,Specialty Retailers: Apparel,3519,36 ,2433,2132,28500
+15,16,Abertis,Spain,Other Transportation,4900,-916,28000,15000,-
+16,17,ABM Industries,U.S.,Diversified Outsourcing Services,5291,76 ,2150,1812,120000
+17,18,Aboitiz Equity Ventures,Philippines,Conglomerates,2400,388,7200,7700,-
+18,19,Abu Dhabi Commercial Bank,United Arab Emirates,Regional Banks,2800,1300,62100,11000,-
+19,20,Abu Dhabi Islamic Bank,United Arab Emirates,Regional Banks,1600,434,24300,3800,-
+20,21,Academy Sports + Outdoors,United States,Retailing,4600,-,-,-,22000
+21,22,Accenture,Ireland,Computer Services,33500,3700,18100,71600,-
+22,23,Acciona,Spain,Construction Services,7300,230,17100,4300,-
+23,24,Accor,France,Hotels & Motels,6200,230,9700,10800,-
+24,25,Accordant Media,United States,Business Services & Supplies,42 ,-,-,-,57
+25,26,Achmea,Netherlands,"Insurance: Life, Health (Mutual)",25763,425 ,100926,-,15412
+26,27,ACS,Spain,"Engineering, Construction",38741,805 ,38321,-,127362
+27,28,Actelion,Switzerland,Pharmaceuticals,2200,587,2100,17900,-
+28,29,Activision Blizzard,United States,Real Estate,4600,880,15300,25500,-
+29,30,Acuity Brands,U.S.,"Electronics, Electrical Equip.",2707,222 ,2430,9553,7800
+30,31,Adamjee Insurance,PAKISTAN,-,198,25,-,171,-
+31,32,Adams Resources & Energy,U.S.,Petroleum Refining,1944,(1),243 ,169 ,809
+32,33,Adani Enterprises,India,Trading Companies,10600,251,6800,1400,-
+33,34,AdBoom Group,United States,IT Software & Services,105 ,-,-,-,72
+34,35,Adecco,Switzerland,Business & Personal Services,24400,9,10600,11500,-
+35,36,Adecco Group,Switzerland,Temporary Help,24415,9 ,10564,-,32000
+36,37,Adidas,Germany,Apparel/Accessories,18800,739,14500,25200,-
+37,38,Admiral Group plc,United Kingdom,Property & Casualty Insurance,1400,458,4900,7600,-
+38,39,Adobe Systems,United States,Software & Programming,5000,799,11900,47400,-
+39,40,ADP,U.S.,Diversified Outsourcing Services,11477,1453,33111,41038,55000
+40,41,ADT,U.S.,Diversified Outsourcing Services,3574,296 ,10726,6830,17100
+41,42,Advance Auto Parts,United States,Specialty Stores,9700,472,8100,11600,-
+42,43,Advance Publications,United States,Media,8000,-,-,-,25000
+43,44,Advanced Ceramic X,TAIWAN,-,56,24,-,379,-
+44,45,Advanced Info Service,Thailand,Telecommunications services,4500,1100,5100,13100,-
+45,46,Advanced Micro Devices,U.S.,Semiconductors and Other Electronic Components,3991,(660),3109,2261,9100
+46,47,Advanced Semiconductor,Taiwan,Semiconductors,8900,613,11100,8300,-
+47,48,AECOM,U.S.,"Engineering, Construction",17990,(155),14014,4699,92000
+48,49,AECOM Technology,United States,Construction Services,18100,-36,13500,4700,-
+49,50,Aegon,Netherlands,Diversified Insurance,33000,687,441300,13000,-
+50,51,Aena,Spain,Other Transportation,3800,924,18500,20100,-
+51,52,Aeon,Japan,Food Retail,60000,50,72900,13000,-
+52,53,AerCap Holdings,Netherlands,Other Transportation,5500,1200,43900,8300,-
+53,54,Aeroports de Paris,France,Other Transportation,3200,477,11300,12000,-
+54,55,AES,United States,Electric Utilities,14900,306,36900,7400,-
+55,56,Aetna,United States,Managed Health Care,60400,2400,53400,40200,-
+56,57,Affiliated Managers Group,United States,Investment Services,2500,516,7800,9600,-
+57,58,Aflac,United States,Life & Health Insurance,21000,2500,118300,28500,-
+58,59,AGCO,U.S.,Construction and Farm Machinery,7467,266 ,6501,4098,19588
+59,60,Ageas,Netherlands,Diversified Insurance,13400,854,112900,8800,-
+60,61,Agile Property Holdings,Hong Kong,Real Estate,6800,251,18100,2200,-
+61,62,Agilent Technologies,United States,Electronics,4000,449,7300,13700,-
+62,63,AGL Energy,Australia,Electric Utilities,8300,-404,10600,9500,-
+63,64,AGL Resources,United States,Natural Gas Utilities,3900,353,15000,7800,-
+64,65,Agricultural Bank of China,China,Regional Banks,131900,28800,2739800,152700,-
+65,66,Agrium,Canada,Specialized Chemicals,14600,973,16400,11900,-
+66,67,Ahli United Bank,Bahrain,Regional Banks,1400,524,34000,4200,-
+67,68,AIA Group,Hong Kong,Life & Health Insurance,23700,2700,166000,72700,-
+68,69,Aier Eye Hospital Group,CHINA / HONG KONG,-,504,68,-,5714,-
+69,70,AIG,U.S.,Insurance: Property and Casualty (Stock),58327,2196,496943,-,66400
+70,71,Air Canada,Canada,Airline,10800,237,9500,1800,-
+71,72,Air France-KLM,France,Airline,28900,131,25300,2700,-
+72,73,Air France-KLM Group,France,Airlines,28910,131 ,25347,-,93300
+73,74,Air Liquide,France,Specialized Chemicals,18200,1900,31400,40500,-
+74,75,Air Products & Chemicals,United States,Specialized Chemicals,9700,1300,17300,31900,-
+75,76,Airbus Group,Netherlands,Aerospace and Defense,71493,2991,115877,-,136574
+76,77,Airgas,United States,Specialized Chemicals,5300,348,6200,10300,-
+77,78,Airports of Thailand,Thailand,Other Transportation,1300,567,4500,16600,-
+78,79,Aisin Seiki,Japan,Auto & Truck Parts,26200,763,24200,11400,-
+79,80,Ajinomoto,Japan,Food Processing,9700,723,10700,13600,-
+80,81,AK Steel Holding,U.S.,Metals,6693,(509),4084,737 ,8500
+81,82,Akamai Technologies,United States,Computer Services,2200,321,4200,9000,-
+82,83,Akbank,Turkey,Regional Banks,7100,1200,86000,12000,-
+83,84,Akzo Nobel,Netherlands,Diversified Chemicals,16200,1200,18500,17700,-
+84,85,Al Rajhi Bank,Saudi Arabia,Regional Banks,4000,2000,86200,25500,-
+85,86,Alaska Air Group,United States,Airline,5600,848,6500,9500,-
+86,87,Albemarle,U.S.,Chemicals,3651,335 ,9615,7176,6963
+87,88,Alberici,United States,Construction,2100,-,-,-,1000
+88,89,Albertsons,United States,Food Markets,58700,-,-,-,164000
+89,90,Alcoa,United States,Aluminum,21700,-300,36100,13700,-
+90,91,Aldar Properties,United Arab Emirates,Real Estate,1300,704,9800,6000,-
+91,92,Alere,U.S.,Medical Products and Equipment,2601,346 ,6574,4380,9800
+92,93,Aleris,U.S.,Metals,3206,49 ,2163,-,5200
+93,94,Alex Lee,United States,"Food, Drink & Tobacco",3300,-,-,-,10000
+94,95,Alexion Pharmaceuticals,United States,Biotechs,2500,144,13100,35800,-
+95,96,ALFA,Mexico,Conglomerates,16300,238,15400,9400,-
+96,97,Alfa Laval,Sweden,Other Industrial Equipment,4700,455,6200,7000,-
+97,98,Alfresa Holdings,Japan,Pharmaceuticals,21000,237,11100,4600,-
+98,99,Alibaba,China,Business & Personal Services,15000,11000,56200,200700,-
+99,100,Alimentation Couche-Tard,Canada,Specialty Retailers,34530,933 ,10838,-,80000

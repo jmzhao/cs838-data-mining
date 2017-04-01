@@ -1,0 +1,128 @@
+,_id,ltable_id,rtable_id,ltable_Name,ltable_Industry,ltable_MarketValue,rtable_Name,rtable_Industry,rtable_MarketValue
+0,0,2,9,3M,Conglomerates,102200,3M Company,Medical/Dental Instruments,$111.73B
+1,1,7,16,A. Schulman,Chemicals,798 ,"A. Schulman, Inc.",Major Chemicals,$992.75M
+2,2,11,24,ABB,Conglomerates,48100,ABB Ltd,Electrical Products,$48.17B
+3,3,12,25,Abbott Laboratories,Pharmaceuticals,64900,Abbott Laboratories,Major Pharmaceuticals,$78.93B
+4,4,13,26,AbbVie,Pharmaceuticals,99400,AbbVie Inc.,Major Pharmaceuticals,$98.97B
+5,5,15,29,Abercrombie & Fitch,Specialty Retailers: Apparel,2132,Abercrombie & Fitch Company,Clothing/Shoe/Accessory Stores,$810.75M
+6,6,18,31,Aboitiz Equity Ventures,Conglomerates,7700,Aberdeen Australia Equity Fund Inc,n/a,$143.28M
+7,7,65,35,Agricultural Bank of China,Regional Banks,152700,"Aberdeen Greater China Fund, Inc.",n/a,$84.27M
+8,8,18,38,Aboitiz Equity Ventures,Conglomerates,7700,"Aberdeen Japan Equity Fund, Inc. ",n/a,$104.9M
+9,9,17,42,ABM Industries,Diversified Outsourcing Services,1812,ABM Industries Incorporated,Diversified Commercial Services,$2.28B
+10,10,38,53,Admiral Group plc,Property & Casualty Insurance,7600,Accenture plc,Business Services,$79.48B
+11,11,22,53,Accenture,Computer Services,71600,Accenture plc,Business Services,$79.48B
+12,12,30,55,Acuity Brands,"Electronics, Electrical Equip.",9553,Acco Brands Corporation,Publishing,$1.51B
+13,13,67,63,Ahli United Bank,Regional Banks,4200,Acme United Corporation.,Industrial Machinery/Components,$84.49M
+14,14,29,69,Activision Blizzard,Real Estate,25500,"Activision Blizzard, Inc",Computer Software: Prepackaged Software,$33.85B
+15,15,30,72,Acuity Brands,"Electronics, Electrical Equip.",9553,Acuity Brands Inc,Building Products,$9.62B
+16,16,18,77,Aboitiz Equity Ventures,Conglomerates,7700,"Adams Diversified Equity Fund, Inc.",n/a,$1.3B
+17,17,32,77,Adams Resources & Energy,Petroleum Refining,169 ,"Adams Diversified Equity Fund, Inc.",n/a,$1.3B
+18,18,64,78,AGL Resources,Natural Gas Utilities,7800,"Adams Natural Resources Fund, Inc.",n/a,$556.83M
+19,19,32,78,Adams Resources & Energy,Petroleum Refining,169 ,"Adams Natural Resources Fund, Inc.",n/a,$556.83M
+20,20,64,79,AGL Resources,Natural Gas Utilities,7800,"Adams Resources & Energy, Inc.",Oil Refining/Marketing,$169.34M
+21,21,32,79,Adams Resources & Energy,Petroleum Refining,169 ,"Adams Resources & Energy, Inc.",Oil Refining/Marketing,$169.34M
+22,22,38,80,Admiral Group plc,Property & Casualty Insurance,7600,Adaptimmune Therapeutics plc,Biotechnology: Biological Products (No Diagnostic Substances),$279.6M
+23,23,38,88,Admiral Group plc,Property & Casualty Insurance,7600,Adient plc,n/a,$6.23B
+24,24,39,90,Adobe Systems,Software & Programming,47400,Adobe Systems Incorporated,Computer Software: Prepackaged Software,$58.95B
+25,25,42,93,Advance Auto Parts,Specialty Stores,11600,Advance Auto Parts Inc,Other Specialty Stores,$11.6B
+26,26,43,93,Advance Publications,Media,-,Advance Auto Parts Inc,Other Specialty Stores,$11.6B
+27,27,44,94,Advanced Ceramic X,-,379,Advanced Accelerator Applications S.A.,Major Pharmaceuticals,$1.6B
+28,28,45,94,Advanced Info Service,Telecommunications services,13100,Advanced Accelerator Applications S.A.,Major Pharmaceuticals,$1.6B
+29,29,46,94,Advanced Micro Devices,Semiconductors and Other Electronic Components,2261,Advanced Accelerator Applications S.A.,Major Pharmaceuticals,$1.6B
+30,30,47,94,Advanced Semiconductor,Semiconductors,8300,Advanced Accelerator Applications S.A.,Major Pharmaceuticals,$1.6B
+31,31,44,95,Advanced Ceramic X,-,379,"Advanced Disposal Services, Inc.",Environmental Services,$1.92B
+32,32,45,95,Advanced Info Service,Telecommunications services,13100,"Advanced Disposal Services, Inc.",Environmental Services,$1.92B
+33,33,46,95,Advanced Micro Devices,Semiconductors and Other Electronic Components,2261,"Advanced Disposal Services, Inc.",Environmental Services,$1.92B
+34,34,47,95,Advanced Semiconductor,Semiconductors,8300,"Advanced Disposal Services, Inc.",Environmental Services,$1.92B
+35,35,44,96,Advanced Ceramic X,-,379,"Advanced Drainage Systems, Inc.",Containers/Packaging,$1.24B
+36,36,45,96,Advanced Info Service,Telecommunications services,13100,"Advanced Drainage Systems, Inc.",Containers/Packaging,$1.24B
+37,37,46,96,Advanced Micro Devices,Semiconductors and Other Electronic Components,2261,"Advanced Drainage Systems, Inc.",Containers/Packaging,$1.24B
+38,38,47,96,Advanced Semiconductor,Semiconductors,8300,"Advanced Drainage Systems, Inc.",Containers/Packaging,$1.24B
+39,39,44,97,Advanced Ceramic X,-,379,"Advanced Emissions Solutions, Inc.",Major Chemicals,$242.24M
+40,40,45,97,Advanced Info Service,Telecommunications services,13100,"Advanced Emissions Solutions, Inc.",Major Chemicals,$242.24M
+41,41,46,97,Advanced Micro Devices,Semiconductors and Other Electronic Components,2261,"Advanced Emissions Solutions, Inc.",Major Chemicals,$242.24M
+42,42,47,97,Advanced Semiconductor,Semiconductors,8300,"Advanced Emissions Solutions, Inc.",Major Chemicals,$242.24M
+43,43,17,98,ABM Industries,Diversified Outsourcing Services,1812,"Advanced Energy Industries, Inc.",Industrial Machinery/Components,$2.48B
+44,44,44,98,Advanced Ceramic X,-,379,"Advanced Energy Industries, Inc.",Industrial Machinery/Components,$2.48B
+45,45,45,98,Advanced Info Service,Telecommunications services,13100,"Advanced Energy Industries, Inc.",Industrial Machinery/Components,$2.48B
+46,46,46,98,Advanced Micro Devices,Semiconductors and Other Electronic Components,2261,"Advanced Energy Industries, Inc.",Industrial Machinery/Components,$2.48B
+47,47,47,98,Advanced Semiconductor,Semiconductors,8300,"Advanced Energy Industries, Inc.",Industrial Machinery/Components,$2.48B
+48,48,44,99,Advanced Ceramic X,-,379,"Advanced Micro Devices, Inc.",Semiconductors,$13.28B
+49,49,45,99,Advanced Info Service,Telecommunications services,13100,"Advanced Micro Devices, Inc.",Semiconductors,$13.28B
+50,50,46,99,Advanced Micro Devices,Semiconductors and Other Electronic Components,2261,"Advanced Micro Devices, Inc.",Semiconductors,$13.28B
+51,51,47,99,Advanced Semiconductor,Semiconductors,8300,"Advanced Micro Devices, Inc.",Semiconductors,$13.28B
+52,52,44,100,Advanced Ceramic X,-,379,"Advanced Semiconductor Engineering, Inc.",Semiconductors,$9.84B
+53,53,45,100,Advanced Info Service,Telecommunications services,13100,"Advanced Semiconductor Engineering, Inc.",Semiconductors,$9.84B
+54,54,46,100,Advanced Micro Devices,Semiconductors and Other Electronic Components,2261,"Advanced Semiconductor Engineering, Inc.",Semiconductors,$9.84B
+55,55,47,100,Advanced Semiconductor,Semiconductors,8300,"Advanced Semiconductor Engineering, Inc.",Semiconductors,$9.84B
+56,56,49,111,AECOM Technology,Construction Services,4700,AECOM,Military/Government/Technical,$5.56B
+57,57,48,111,AECOM,"Engineering, Construction",4699,AECOM,Military/Government/Technical,$5.56B
+58,58,50,115,Aegon,Diversified Insurance,13000,Aegon NV,Life Insurance,n/a
+59,59,50,116,Aegon,Diversified Insurance,13000,Aegon NV,Life Insurance,n/a
+60,60,50,117,Aegon,Diversified Insurance,13000,Aegon NV,Life Insurance,$11.14B
+61,61,50,118,Aegon,Diversified Insurance,13000,Aegon NV,Life Insurance,n/a
+62,62,50,119,Aegon,Diversified Insurance,13000,Aegon NV,Life Insurance,n/a
+63,63,53,122,AerCap Holdings,Other Transportation,8300,Aercap Holdings N.V.,Diversified Commercial Services,$8.24B
+64,64,56,130,Aetna,Managed Health Care,40200,Aetna Inc.,Medical Specialities,$45.36B
+65,65,57,132,Affiliated Managers Group,Investment Services,9600,"Affiliated Managers Group, Inc.",Investment Managers,$9.21B
+66,66,57,133,Affiliated Managers Group,Investment Services,9600,"Affiliated Managers Group, Inc.",Investment Managers,n/a
+67,67,58,135,Aflac,Life & Health Insurance,28500,Aflac Incorporated,Accident &Health Insurance,$29.1B
+68,68,58,136,Aflac,Life & Health Insurance,28500,Aflac Incorporated,Accident &Health Insurance,n/a
+69,69,59,140,AGCO,Construction and Farm Machinery,4098,AGCO Corporation,Industrial Machinery/Components,$4.95B
+70,70,61,142,Agile Property Holdings,Real Estate,2200,"Agile Therapeutics, Inc.",Major Pharmaceuticals,$64.42M
+71,71,62,143,Agilent Technologies,Electronics,13700,"Agilent Technologies, Inc.",Biotechnology: Laboratory Analytical Instruments,$16.66B
+72,72,66,151,Agrium,Specialized Chemicals,11900,Agrium Inc.,Agricultural Chemicals,$13.73B
+73,73,17,155,ABM Industries,Diversified Outsourcing Services,1812,Air Industries Group,Military/Government/Technical,$28.57M
+74,74,86,155,Alaska Air Group,Airline,9500,Air Industries Group,Military/Government/Technical,$28.57M
+75,75,71,155,Air Canada,Airline,1800,Air Industries Group,Military/Government/Technical,$28.57M
+76,76,72,155,Air France-KLM,Airline,2700,Air Industries Group,Military/Government/Technical,$28.57M
+77,77,73,155,Air France-KLM Group,Airlines,-,Air Industries Group,Military/Government/Technical,$28.57M
+78,78,74,155,Air Liquide,Specialized Chemicals,40500,Air Industries Group,Military/Government/Technical,$28.57M
+79,79,75,155,Air Products & Chemicals,Specialized Chemicals,31900,Air Industries Group,Military/Government/Technical,$28.57M
+80,80,86,156,Alaska Air Group,Airline,9500,Air Lease Corporation,Diversified Commercial Services,$3.92B
+81,81,71,156,Air Canada,Airline,1800,Air Lease Corporation,Diversified Commercial Services,$3.92B
+82,82,72,156,Air France-KLM,Airline,2700,Air Lease Corporation,Diversified Commercial Services,$3.92B
+83,83,73,156,Air France-KLM Group,Airlines,-,Air Lease Corporation,Diversified Commercial Services,$3.92B
+84,84,74,156,Air Liquide,Specialized Chemicals,40500,Air Lease Corporation,Diversified Commercial Services,$3.92B
+85,85,75,156,Air Products & Chemicals,Specialized Chemicals,31900,Air Lease Corporation,Diversified Commercial Services,$3.92B
+86,86,86,157,Alaska Air Group,Airline,9500,Air Methods Corporation,Transportation Services,$1.39B
+87,87,71,157,Air Canada,Airline,1800,Air Methods Corporation,Transportation Services,$1.39B
+88,88,72,157,Air France-KLM,Airline,2700,Air Methods Corporation,Transportation Services,$1.39B
+89,89,73,157,Air France-KLM Group,Airlines,-,Air Methods Corporation,Transportation Services,$1.39B
+90,90,74,157,Air Liquide,Specialized Chemicals,40500,Air Methods Corporation,Transportation Services,$1.39B
+91,91,75,157,Air Products & Chemicals,Specialized Chemicals,31900,Air Methods Corporation,Transportation Services,$1.39B
+92,92,86,158,Alaska Air Group,Airline,9500,"Air Products and Chemicals, Inc.",Major Chemicals,$30.65B
+93,93,71,158,Air Canada,Airline,1800,"Air Products and Chemicals, Inc.",Major Chemicals,$30.65B
+94,94,72,158,Air France-KLM,Airline,2700,"Air Products and Chemicals, Inc.",Major Chemicals,$30.65B
+95,95,73,158,Air France-KLM Group,Airlines,-,"Air Products and Chemicals, Inc.",Major Chemicals,$30.65B
+96,96,74,158,Air Liquide,Specialized Chemicals,40500,"Air Products and Chemicals, Inc.",Major Chemicals,$30.65B
+97,97,75,158,Air Products & Chemicals,Specialized Chemicals,31900,"Air Products and Chemicals, Inc.",Major Chemicals,$30.65B
+98,98,86,159,Alaska Air Group,Airline,9500,"Air T, Inc.",Air Freight/Delivery Services,$44.94M
+99,99,71,159,Air Canada,Airline,1800,"Air T, Inc.",Air Freight/Delivery Services,$44.94M
+100,100,72,159,Air France-KLM,Airline,2700,"Air T, Inc.",Air Freight/Delivery Services,$44.94M
+101,101,73,159,Air France-KLM Group,Airlines,-,"Air T, Inc.",Air Freight/Delivery Services,$44.94M
+102,102,74,159,Air Liquide,Specialized Chemicals,40500,"Air T, Inc.",Air Freight/Delivery Services,$44.94M
+103,103,75,159,Air Products & Chemicals,Specialized Chemicals,31900,"Air T, Inc.",Air Freight/Delivery Services,$44.94M
+104,104,86,160,Alaska Air Group,Airline,9500,"Air Transport Services Group, Inc",Air Freight/Delivery Services,$1.01B
+105,105,71,160,Air Canada,Airline,1800,"Air Transport Services Group, Inc",Air Freight/Delivery Services,$1.01B
+106,106,72,160,Air France-KLM,Airline,2700,"Air Transport Services Group, Inc",Air Freight/Delivery Services,$1.01B
+107,107,73,160,Air France-KLM Group,Airlines,-,"Air Transport Services Group, Inc",Air Freight/Delivery Services,$1.01B
+108,108,74,160,Air Liquide,Specialized Chemicals,40500,"Air Transport Services Group, Inc",Air Freight/Delivery Services,$1.01B
+109,109,75,160,Air Products & Chemicals,Specialized Chemicals,31900,"Air Transport Services Group, Inc",Air Freight/Delivery Services,$1.01B
+110,110,81,164,AK Steel Holding,Metals,737 ,AK Steel Holding Corporation,Steel/Iron Ore,$2.52B
+111,111,82,165,Akamai Technologies,Computer Services,9000,"Akamai Technologies, Inc.",Business Services,$10.9B
+112,112,38,166,Admiral Group plc,Property & Casualty Insurance,7600,Akari Therapeutics Plc,Major Pharmaceuticals,$75.49M
+113,113,86,174,Alaska Air Group,Airline,9500,"Alaska Air Group, Inc.",Air Freight/Delivery Services,$11.96B
+114,114,71,174,Air Canada,Airline,1800,"Alaska Air Group, Inc.",Air Freight/Delivery Services,$11.96B
+115,115,72,174,Air France-KLM,Airline,2700,"Alaska Air Group, Inc.",Air Freight/Delivery Services,$11.96B
+116,116,73,174,Air France-KLM Group,Airlines,-,"Alaska Air Group, Inc.",Air Freight/Delivery Services,$11.96B
+117,117,74,174,Air Liquide,Specialized Chemicals,40500,"Alaska Air Group, Inc.",Air Freight/Delivery Services,$11.96B
+118,118,75,174,Air Products & Chemicals,Specialized Chemicals,31900,"Alaska Air Group, Inc.",Air Freight/Delivery Services,$11.96B
+119,119,86,175,Alaska Air Group,Airline,9500,"Alaska Communications Systems Group, Inc.",Telecommunications Equipment,$84.74M
+120,120,87,178,Albemarle,Chemicals,7176,Albemarle Corporation,Major Chemicals,$10.45B
+121,121,90,181,Alcoa,Aluminum,13700,Alcoa Corporation,Metal Fabrications,$6.31B
+122,122,92,185,Alere,Medical Products and Equipment,4380,Alere Inc.,Biotechnology: In Vitro & In Vivo Diagnostic Substances,$3.48B
+123,123,92,186,Alere,Medical Products and Equipment,4380,Alere Inc.,n/a,n/a
+124,124,95,193,Alexion Pharmaceuticals,Biotechs,35800,"Alexion Pharmaceuticals, Inc.",Major Pharmaceuticals,$29.55B
+125,125,99,195,Alibaba,Business & Personal Services,200700,Alibaba Group Holding Limited,Business Services,$257.38B
+126,126,38,200,Admiral Group plc,Property & Casualty Insurance,7600,Alkermes plc,Major Pharmaceuticals,$8.08B
