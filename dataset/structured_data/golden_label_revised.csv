@@ -1,7 +1,7 @@
 ,_id,ltable_id,rtable_id,ltable_Country,ltable_Industry,ltable_MarketValue,ltable_Name,rtable_Name,rtable_Country,rtable_Sector,rtable_Industry,rtable_MarketValue,is_match
 443,443,1408,65,United States,"Electronics, Electrical Equip.",9553,Acuity Brands,Acuity Brands Inc,United States,Consumer Durables,Building Products,8994.89448,1
 678,678,2029,108,United States,Life & Health Insurance,28500,Aflac,Aflac Incorporated,United States,Finance,Accident &Health Insurance,29053.25348,1
-871,871,521,140,United States,Airline,9500,Alaska Air Group,"Alaska Communications Systems Group, Inc.",United States,Public Utilities,Telecommunications Equipment,94.55265638,1
+871,871,521,140,United States,Airline,9500,Alaska Air Group,"Alaska Communications Systems Group, Inc.",United States,Public Utilities,Telecommunications Equipment,94.55265638,0
 1001,1001,743,166,United States,Business & Personal Services,12200,Alliance Data Systems,Alliance Data Systems Corporation,United States,Miscellaneous,Business Services,13925.39995,1
 1002,1002,2999,166,United States,Tobacco,156,Alliance One International,Alliance Data Systems Corporation,United States,Miscellaneous,Business Services,13925.39995,0
 1042,1042,743,168,United States,Business & Personal Services,12200,Alliance Data Systems,"Alliance Holdings GP, L.P.",United States,Energy,Coal Mining,1642.04209,0
@@ -46,7 +46,7 @@
 5921,5921,1285,742,United States,Electric Utilities,5500,Calpine,Calpine Corporation,United States,Public Utilities,Electric Utilities: Central,3967.547993,1
 6080,6080,1080,761,United States,Consumer Financial Services,39200,Capital One Financial,Capital Southwest Corporation,United States,n/a,n/a,269.8258225,0
 6473,6473,705,833,United States,Biotechs,86400,Celgene,Celgene Corporation,United States,Health Care,Major Pharmaceuticals,96802.36799,1
-6545,6545,2816,865,United States,Specialized Chemicals,7700,CF Industries Holdings,CF Corporation,United States,Finance,Business Services,840.84,1
+6545,6545,2816,865,United States,Specialized Chemicals,7700,CF Industries Holdings,CF Corporation,United States,Finance,Business Services,840.84,0
 6787,6787,2288,889,United States,Oil & Gas Operations,4500,Chesapeake Energy,Chesapeake Granite Wash Trust,United States,Energy,Oil & Gas Production,125.05625,1
 9529,9529,525,926,China,Airline,8400,China Southern Airlines,China Southern Airlines Company Limited,China,Transportation,Air Freight/Delivery Services,6528.682055,1
 9666,9666,2922,927,China,Telecommunications,-,China Telecommunications,China TechFaith Wireless Communication Technology Limited,China,n/a,n/a,21.06755091,0
@@ -67,8 +67,8 @@
 11845,11845,2228,1115,United States,Motor Vehicles and Parts,1235,Cooper-Standard Holdings,Cooper-Standard Holdings Inc.,United States,Capital Goods,Auto Parts:O.E.M.,1963.521124,1
 12062,12062,1423,1164,United States,Energy,806,Crestwood Equity Partners,CrossAmerica Partners LP,United States,Energy,Oil Refining/Marketing,877.6832434,0
 12155,12155,816,1168,United States,Capital Goods,-,Crown Equipment,"Crown Crafts, Inc.",United States,Basic Industries,Textiles,82.77192825,0
-12434,12434,1102,1191,United States,Convenience Stores & Gas Stations,-,Cumberland Gulf Group,Cumberland Pharmaceuticals Inc.,United States,Health Care,Major Pharmaceuticals,110.4925083,1
-12599,12599,788,1245,United States,Business Services & Supplies,-,Delaware North Cos,"Delaware Investments Colorado Municipal Income Fund, Inc",United States,n/a,n/a,71.10585371,1
+12434,12434,1102,1191,United States,Convenience Stores & Gas Stations,-,Cumberland Gulf Group,Cumberland Pharmaceuticals Inc.,United States,Health Care,Major Pharmaceuticals,110.4925083,0
+12599,12599,788,1245,United States,Business Services & Supplies,-,Delaware North Cos,"Delaware Investments Colorado Municipal Income Fund, Inc",United States,n/a,n/a,71.10585371,0
 12619,12619,2452,1250,United States,Petroleum Refining,947,Delek US Holdings,"Delek Logistics Partners, L.P.",United States,Energy,Natural Gas Distribution,810.1426131,1
 12857,12857,720,1297,United States,Broadcasting & Cable,11800,Discovery Communications,"Discovery Communications, Inc.",United States,Consumer Services,Television Services,11306.01072,1
 13009,13009,1300,1313,United States,Electric Utilities,43200,Dominion Resources,"Dominion Resources, Inc.",United States,Public Utilities,Electric Utilities: Central,48753.24533,1
@@ -76,16 +76,16 @@
 13086,13086,935,1327,United States,Conglomerates,10400,Dover,"Dover Motorsports, Inc.",United States,Consumer Services,Services-Misc. Amusement & Recreation,81.1605432,1
 13987,13987,1366,1467,United States,Electrical Equipment,35700,Emerson Electric,Emerson Electric Company,United States,Energy,Consumer Electronics/Appliances,38613.57145,1
 14173,14173,2514,1489,United States,Pipelines,-,Energy Transfer Equity,"Energy Transfer Equity, L.P.",United States,Public Utilities,Natural Gas Distribution,21292.32064,1
-14222,14222,2513,1497,United States,Pipelines,3616,Enable Midstream Partners,"EnLink Midstream Partners, LP",United States,Public Utilities,Natural Gas Distribution,6274.755698,1
+14222,14222,2513,1497,United States,Pipelines,3616,Enable Midstream Partners,"EnLink Midstream Partners, LP",United States,Public Utilities,Natural Gas Distribution,6274.755698,0
 14393,14393,2770,1511,United States,Services,-,Enterprise Holdings,Enterprise Financial Services Corporation,United States,Finance,Major Banks,995.1564537,0
 14540,14540,752,1528,United States,Business & Personal Services,13800,Equifax,"Equifax, Inc.",United States,Finance,Finance: Consumer Services,16508.83392,1
-14564,14564,2606,1533,United States,Real Estate,25800,Equity Residential,"Equity Lifestyle Properties, Inc.",United States,Consumer Services,Real Estate Investment Trusts,6686.154978,1
+14564,14564,2606,1533,United States,Real Estate,25800,Equity Residential,"Equity Lifestyle Properties, Inc.",United States,Consumer Services,Real Estate Investment Trusts,6686.154978,0
 14606,14606,1783,1546,United States,Household/Personal Care,34600,Estí¿ŒËŒ__e Lauder,"Estee Lauder Companies, Inc. (The)",United States,Consumer Non-Durables,Package Goods/Cosmetics,31067.54914,1
 14926,14926,1869,1601,United States,Insurance: Property and Casualty (Mutual),-,Farmers Insurance Exchange,Farmers Capital Bank Corporation,United States,Finance,Major Banks,303.025958,0
 15042,15042,516,1617,United States,Air Courier,44600,FedEx,FedEx Corporation,United States,Transportation,Air Freight/Delivery Services,52178.22227,1
 15118,15118,2537,1626,United States,Property & Casualty Insurance,9100,Fidelity National Financial,"Fidelity National Financial, Inc.",United States,Finance,Specialty Insurers,13186.24274,1
 15191,15191,1470,1628,United States,Financial Data Services,20564,Fidelity National Information Services,"Fidelity National Information Services, Inc.",United States,Miscellaneous,Business Services,26177.50421,1
-15215,15215,2537,1628,United States,Property & Casualty Insurance,9100,Fidelity National Financial,"Fidelity National Information Services, Inc.",United States,Miscellaneous,Business Services,26177.50421,1
+15215,15215,2537,1628,United States,Property & Casualty Insurance,9100,Fidelity National Financial,"Fidelity National Information Services, Inc.",United States,Miscellaneous,Business Services,26177.50421,0
 15234,15234,1470,1629,United States,Financial Data Services,20564,Fidelity National Information Services,Fidelity Southern Corporation,United States,Finance,Major Banks,590.0837481,0
 15825,15825,1428,1680,United States,Energy,6968,First Solar,"First Solar, Inc.",United States,Technology,Semiconductors,2819.611126,1
 15835,15835,1428,1681,United States,Energy,6968,First Solar,First South Bancorp Inc,United States,Finance,Major Banks,115.9028914,0
@@ -139,8 +139,8 @@
 22425,22425,863,2394,United States,Communications Equipment,9100,Juniper Networks,"Juniper Networks, Inc.",United States,Technology,Computer Communications Equipment,10630.56026,1
 22437,22437,2567,2404,United States,Railroads,10600,Kansas City Southern,Kansas City Southern,United States,Transportation,Railroads,9145.760796,1
 22562,22562,1813,2426,United States,Industrial Machinery,1792,Kennametal,Kennametal Inc.,United States,Capital Goods,Industrial Machinery/Components,3146.009718,1
-22601,22601,2631,2438,United States,Real Estate,11700,Kimco Realty,Kilroy Realty Corporation,United States,Consumer Services,Real Estate Investment Trusts,7047.559795,1
-22768,22768,2262,2467,South Korea,Natural Gas Utilities,3100,Korea Gas,Korea Electric Power Corporation,South Korea,Public Utilities,Electric Utilities: Central,26615.83063,1
+22601,22601,2631,2438,United States,Real Estate,11700,Kimco Realty,Kilroy Realty Corporation,United States,Consumer Services,Real Estate Investment Trusts,7047.559795,0
+22768,22768,2262,2467,South Korea,Natural Gas Utilities,3100,Korea Gas,Korea Electric Power Corporation,South Korea,Public Utilities,Electric Utilities: Central,26615.83063,0
 23321,23321,884,2535,United States,Computer Peripherals,2071,Lexmark International,"Lennox International, Inc.",United States,Capital Goods,Industrial Machinery/Components,7190.949999,0
 23439,23439,1394,2540,South Korea,Electronics,8100,LG Display,"LG Display Co., Ltd.",South Korea,Capital Goods,Industrial Machinery/Components,9746.899668,1
 23454,23454,1881,2546,United States,Insurance: Property and Casualty (Stock),-,Liberty Mutual Insurance Group,Liberty All-Star Equity Fund,United States,n/a,n/a,1034.339976,0
@@ -196,7 +196,7 @@
 29600,29600,2329,3278,United States,Oil & Gas Operations,3300,PBF Energy,PBF Energy Inc.,United States,Energy,Integrated oil Companies,2422.819474,1
 29779,29779,647,3301,United States,"Automotive Retailing, Services",3269,Penske Automotive Group,"Penske Automotive Group, Inc.",United States,Consumer Durables,Automotive Aftermarket,4001.051889,1
 29783,29783,2900,3301,United States,Specialty Stores,3100,Penske Automotive,"Penske Automotive Group, Inc.",United States,Consumer Durables,Automotive Aftermarket,4001.051889,1
-29837,29837,2998,3307,United States,Thrifts & Mortgage Finance,5000,People's United Financial,Peoples Financial Services Corp. ,United States,Finance,Major Banks,309.0751774,1
+29837,29837,2998,3307,United States,Thrifts & Mortgage Finance,5000,People's United Financial,Peoples Financial Services Corp. ,United States,Finance,Major Banks,309.0751774,0
 30040,30040,2496,3328,United States,Pharmaceuticals,205700,Pfizer,"Pfizer, Inc.",United States,Health Care,Major Pharmaceuticals,203724.8551,1
 30294,30294,3073,3369,United States,Utilities: Gas and Electric,8343,Pinnacle West Capital,"Pinnacle Entertainment, Inc.",United States,Consumer Services,Hotels/Resorts,1099.976904,0
 30302,30302,1339,3369,United States,Electric Utilities,7900,Pinnacle West,"Pinnacle Entertainment, Inc.",United States,Consumer Services,Hotels/Resorts,1099.976904,0

@@ -1,0 +1,181 @@
+,Unnamed: 0,_id,ltable_id,rtable_id,ltable_Country,ltable_Industry,ltable_MarketValue,ltable_Name,rtable_Name,rtable_Country,rtable_Sector,rtable_Industry,rtable_MarketValue,is_match
+29,4438,4438,1907,564,United States,Investment Services,60400,BlackRock,"Blackrock Enhanced Government Fund, Inc",United States,n/a,n/a,85.8662796,1
+146,23473,23473,1881,2550,United States,Insurance: Property and Casualty (Stock),-,Liberty Mutual Insurance Group,"Liberty Expedia Holdings, Inc.",United States,Consumer Services,Other Consumer Services,2590.663823,0
+16,2770,2770,870,302,United States,Computer Hardware,586000,Apple,Apple Inc.,United States,Technology,Computer Manufacturing,753717.9364,1
+56,11077,11077,1298,1014,United States,Electric Utilities,21000,Consolidated Edison,Coca-Cola Bottling Co. Consolidated,United States,Consumer Non-Durables,Beverages (Production/Distribution),1924.9800719999998,0
+75,13987,13987,1366,1467,United States,Electrical Equipment,35700,Emerson Electric,Emerson Electric Company,United States,Energy,Consumer Electronics/Appliances,38613.57145,1
+109,18699,18699,3087,1908,United States,Wholesalers: Diversified,459,Global Partners,Global Partner Acquisition Corp.,United States,Health Care,Hospital/Nursing Management,194.0625,0
+175,25856,25856,2367,2849,United States,"Oil and Gas Equipment, Services",1342,MRC Global,MRC Global Inc.,United States,Capital Goods,Industrial Machinery/Components,1741.9930160000001,1
+201,30335,30335,1500,3371,United States,Food Consumer Products,5211,Pinnacle Foods,"Pinnacle Foods, Inc.",United States,Consumer Non-Durables,Packaged Foods,6837.470071,1
+161,24145,24145,2517,2639,United States,Pipelines,15671,Magellan Midstream Partners,Magellan Midstream Partners L.P.,United States,Energy,Natural Gas Distribution,17537.3686,1
+4,1002,1002,2999,166,United States,Tobacco,156,Alliance One International,Alliance Data Systems Corporation,United States,Miscellaneous,Business Services,13925.39995,0
+96,17766,17766,2948,1809,United States,Telecommunications services,6600,Frontier Communications,Frontier Communications Corporation,United States,Public Utilities,Telecommunications Equipment,2520.872944,1
+166,24777,24777,2486,2709,United States,Pharmaceuticals,40700,McKesson,McKesson Corporation,United States,Health Care,Other Pharmaceuticals,31438.904239999996,1
+61,11600,11600,2293,1081,United States,Oil & Gas Operations,15000,Concho Resources,"Comstock Resources, Inc.",United States,Energy,Oil & Gas Production,140.2502469,0
+67,12155,12155,816,1168,United States,Capital Goods,-,Crown Equipment,"Crown Crafts, Inc.",United States,Basic Industries,Textiles,82.77192825,0
+137,22425,22425,863,2394,United States,Communications Equipment,9100,Juniper Networks,"Juniper Networks, Inc.",United States,Technology,Computer Communications Equipment,10630.56026,1
+198,30040,30040,2496,3328,United States,Pharmaceuticals,205700,Pfizer,"Pfizer, Inc.",United States,Health Care,Major Pharmaceuticals,203724.8551,1
+262,38361,38361,1010,4396,United States,Construction Materials,4200,USG,USG Corporation,United States,Capital Goods,Building Materials,4648.616347,1
+279,39675,39675,772,4567,United States,Business & Personal Services,9900,Western Union,"Western Asset High Income Opportunity Fund, Inc.",United States,n/a,n/a,651.3303434,0
+40,5558,5558,2474,678,United States,Pharmaceuticals,118200,Bristol-Myers Squibb,Bristol-Myers Squibb Company,United States,Health Care,Major Pharmaceuticals,89591.06441,1
+268,38934,38934,1976,4488,United States,Investment Services,6700,Voya Financial,"Voya Financial, Inc.",United States,Finance,Life Insurance,7191.185256999999,1
+13,1918,1918,1849,232,United States,"Insurance: Life, Health (stock)",3106,American National Insurance,"American National Bankshares, Inc.",United States,Finance,Major Banks,321.36127680000004,0
+107,18440,18440,1196,1876,United States,Diversified Insurance,1500,Genworth Financial,Genworth Financial Inc,United States,Finance,Life Insurance,2053.5077699999997,1
+220,33511,33511,1677,3777,United States,Health Care: Medical Facilities,1550,Select Medical Holdings,"Second Sight Medical Products, Inc.",United States,Health Care,Biotechnology: Electromedical & Electrotherapeutic Apparatus,69.32972367,0
+3,1001,1001,743,166,United States,Business & Personal Services,12200,Alliance Data Systems,Alliance Data Systems Corporation,United States,Miscellaneous,Business Services,13925.39995,1
+157,23692,23692,2043,2577,United States,Life & Health Insurance,10600,Lincoln National,"Lincoln Electric Holdings, Inc.",United States,Technology,Industrial Machinery/Components,5712.105213,0
+125,21164,21164,2823,2256,United States,Specialized Chemicals,9600,International Flavors & Fragrances,International Game Technology,United States,Consumer Services,Services-Misc. Amusement & Recreation,4764.517603,0
+24,4091,4091,814,515,United States,Capital Goods,-,Big Ass Fans,Big 5 Sporting Goods Corporation,United States,Consumer Services,Other Specialty Stores,331.4902917,0
+30,4503,4503,1907,569,United States,Investment Services,60400,BlackRock,Blackrock Health Sciences Trust,United States,n/a,n/a,299.1370872,1
+77,14222,14222,2513,1497,United States,Pipelines,3616,Enable Midstream Partners,"EnLink Midstream Partners, LP",United States,Public Utilities,Natural Gas Distribution,6274.755698,1
+291,40187,40187,2387,4610,United States,Oil Services & Equipment,14700,Williams,"Williams Companies, Inc. (The)",United States,Public Utilities,Natural Gas Distribution,24436.12973,1
+210,31760,31760,1691,3556,United States,Healthcare Services,10700,Quest Diagnostics,Quest Diagnostics Incorporated,United States,Health Care,Medical Specialities,13500.66115,1
+19,3720,3720,889,448,China,Computer Services,66100,Baidu,"Baidu, Inc.",China,Technology,"Computer Software: Programming, Data Processing",59849.030510000004,1
+254,38052,38052,1649,4368,United States,Forest and Paper Products,1738,Universal Forest Products,Universal Corporation,United States,Consumer Services,Farming/Seeds/Milling,1788.0965170000002,0
+241,37057,37057,501,4253,United States,Aerospace & Defense,12100,TransDigm Group,Transdigm Group Incorporated,United States,Capital Goods,Military/Government/Technical,11634.24842,1
+266,38756,38756,2765,4468,United States,Semiconductors and Other Electronic Components,1803,Vishay Intertechnology,"Vishay Precision Group, Inc.",United States,Capital Goods,Electrical Products,208.79083799999998,1
+80,14564,14564,2606,1533,United States,Real Estate,25800,Equity Residential,"Equity Lifestyle Properties, Inc.",United States,Consumer Services,Real Estate Investment Trusts,6686.1549780000005,1
+51,10602,10602,1566,943,United States,Food Production,-,CHS,CHS Inc,United States,Consumer Services,Farming/Seeds/Milling,328.0296915,1
+2,871,871,521,140,United States,Airline,9500,Alaska Air Group,"Alaska Communications Systems Group, Inc.",United States,Public Utilities,Telecommunications Equipment,94.55265638,1
+235,35777,35777,2572,4074,Taiwan,Railroads,2700,Taiwan High Speed Rail,Taiwan Semiconductor Manufacturing Company Ltd.,Taiwan,Technology,Semiconductors,170308.24,0
+104,18276,18276,489,1859,United States,Aerospace & Defense,42900,General Dynamics,General Finance Corporation,United States,Technology,Diversified Commercial Services,134.40878130000002,0
+179,27456,27456,1842,2967,United States,"Insurance: Life, Health (Mutual)",-,New York Life Insurance,"New Relic, Inc.",United States,Technology,Computer Software: Prepackaged Software,1956.715113,0
+86,15215,15215,2537,1628,United States,Property & Casualty Insurance,9100,Fidelity National Financial,"Fidelity National Information Services, Inc.",United States,Miscellaneous,Business Services,26177.50421,1
+10,1417,1417,1178,206,United States,Diversified Insurance,761,Ambac Financial Group,"Ambac Financial Group, Inc.",United States,Finance,Property-Casualty Insurers,853.4701922,1
+199,30294,30294,3073,3369,United States,Utilities: Gas and Electric,8343,Pinnacle West Capital,"Pinnacle Entertainment, Inc.",United States,Consumer Services,Hotels/Resorts,1099.9769039999999,0
+58,11213,11213,2291,1042,United States,Oil & Gas Operations,-,Colonial Group,Colonial Investment Grade Municipal Trust,United States,n/a,n/a,111.745772,0
+41,5565,5565,1468,681,United States,Financial Data Services,7048,Broadridge Financial Solutions,"Broadridge Financial Solutions, Inc.",United States,Miscellaneous,Business Services,8036.8575980000005,1
+14,2450,2450,2758,257,United States,Semiconductors and Other Electronic Components,1398,Amkor Technology,"Amkor Technology, Inc.",United States,Technology,Semiconductors,2767.557707,1
+155,23565,23565,1881,2561,United States,Insurance: Property and Casualty (Stock),-,Liberty Mutual Insurance Group,"Liberty TripAdvisor Holdings, Inc.",United States,Technology,EDP Services,1053.7875980000001,0
+50,9666,9666,2922,927,China,Telecommunications,-,China Telecommunications,China TechFaith Wireless Communication Technology Limited,China,n/a,n/a,21.06755091,0
+292,40208,40208,2930,4614,United States,Telecommunications,703,Windstream Holdings,"Windstream Holdings, Inc.",United States,Public Utilities,Telecommunications Equipment,1008.5951220000001,1
+233,35255,35255,1159,4004,Japan,Diversified Chemicals,7800,Sumitomo Chemical,Sumitomo Mitsui Financial Group Inc,Japan,Finance,Commercial Banks,49561.387839999996,0
+123,20360,20360,3042,2128,United States,Transportation and Logistics,1454,Hub Group,"Hub Group, Inc.",United States,Transportation,Oil Refining/Marketing,1582.532592,1
+200,30302,30302,1339,3369,United States,Electric Utilities,7900,Pinnacle West,"Pinnacle Entertainment, Inc.",United States,Consumer Services,Hotels/Resorts,1099.9769039999999,0
+62,11716,11716,1298,1100,United States,Electric Utilities,21000,Consolidated Edison,"Consolidated Communications Holdings, Inc.",United States,Public Utilities,Telecommunications Equipment,1184.17675,0
+187,28579,28579,2547,3147,United States,Property & Casualty Insurance,4800,Old Republic International,"Old Dominion Freight Line, Inc.",United States,Transportation,Trucking Freight/Courier Services,7056.635815000001,0
+226,34436,34436,1077,3890,Japan,Consumer Electronics,34100,Sony,Sony Corp Ord,Japan,Consumer Non-Durables,Consumer Electronics/Appliances,42613.171930000004,1
+130,21493,21493,1944,2283,United States,Investment Services,13400,Invesco,Invesco Municipal Income Opportunities Trust,United States,n/a,n/a,357.69525510000005,1
+209,31573,31573,2646,3525,United States,Real Estate,44500,Public Storage,Public Service Enterprise Group Incorporated,United States,Public Utilities,Power Generation,22450.737259999998,0
+260,38204,38204,1694,4377,United States,Healthcare Services,12600,Universal Health,"Universal Stainless & Alloy Products, Inc.",United States,Basic Industries,Steel/Iron Ore,127.638618,0
+43,5619,5619,2412,705,United States,Other Transportation,10900,C.H. Robinson Worldwide,"C.H. Robinson Worldwide, Inc.",United States,Transportation,Oil Refining/Marketing,10925.681859999999,1
+114,19224,19224,1169,1989,United States,Diversified Financials,5929,H&R Block,"H&R Block, Inc.",United States,Consumer Services,Other Consumer Services,4816.640027,1
+138,22437,22437,2567,2404,United States,Railroads,10600,Kansas City Southern,Kansas City Southern,United States,Transportation,Railroads,9145.760795999999,1
+294,40493,40493,275,4644,South Korea, Banks,6200,Woori Bank,Woori Bank,South Korea,Finance,Commercial Banks,7890.424575,1
+218,33130,33130,2967,3749,United States,Telecommunications services,13000,SBA Communications,SBA Communications Corporation,United States,Consumer Services,Real Estate Investment Trusts,14562.02881,1
+149,23526,23526,1881,2557,United States,Insurance: Property and Casualty (Stock),-,Liberty Mutual Insurance Group,Liberty Media Corporation,United States,Consumer Services,Broadcasting,6892.226490999999,0
+112,18991,18991,3068,1949,United States,Utilities: Gas and Electric,4980,Great Plains Energy,Great Lakes Dredge & Dock Corporation,United States,Basic Industries,Military/Government/Technical,246.8965253,0
+247,37660,37660,540,4345,United States,Airline,17100,United Continental Holdings,"United Continental Holdings, Inc.",United States,Transportation,Air Freight/Delivery Services,22224.944069999998,1
+98,18227,18227,2614,1855,United States,Real Estate,25200,General Growth Properties,General Cable Corporation,United States,Basic Industries,Telecommunications Equipment,889.8054453,0
+217,33101,33101,2763,3744,United States,Semiconductors and Other Electronic Components,1805,Sanmina,Sanmina Corporation,United States,Technology,Electrical Products,3012.600614,1
+93,17609,17609,1928,1795,United States,Investment Services,24100,Franklin Resources,Franklin Covey Company,United States,Consumer Services,Other Consumer Services,278.78621960000004,0
+216,33077,33077,1569,3739,United States,Food Production,2036,Sanderson Farms,"Sanderson Farms, Inc.",United States,Consumer Non-Durables,Meat/Poultry/Fish,2360.6887100000004,1
+162,24149,24149,1670,2639,United States,Health Care: Insurance and Managed Care,1679,Magellan Health,Magellan Midstream Partners L.P.,United States,Energy,Natural Gas Distribution,17537.3686,0
+36,4857,4857,1907,598,United States,Investment Services,60400,BlackRock,"Blackrock MuniYield California Fund, Inc.",United States,n/a,n/a,314.59945130000006,1
+178,27436,27436,1555,2966,China,Food Processing,5100,New Hope Liuhe,"New Oriental Education & Technology Group, Inc.",China,Consumer Services,Other Consumer Services,9506.190790999999,0
+113,19008,19008,1620,1951,United States,"Food, Drink & Tobacco",-,Great Lakes Cheese,"Great Southern Bancorp, Inc.",United States,Finance,Major Banks,705.2335688,0
+0,443,443,1408,65,United States,"Electronics, Electrical Equip.",9553,Acuity Brands,Acuity Brands Inc,United States,Consumer Durables,Building Products,8994.894479999999,1
+94,17624,17624,1928,1797,United States,Investment Services,24100,Franklin Resources,"Franklin Financial Network, Inc.",United States,Finance,Major Banks,506.04252750000006,0
+275,39599,39599,1848,4562,United States,"Insurance: Life, Health (Mutual)",-,Western & Southern Financial Group,Western Asset Corporate Loan Fund Inc,United States,n/a,n/a,112.0771438,0
+95,17708,17708,2697,1805,United States,Retailing,-,Fry's Electronics,"Frequency Electronics, Inc.",United States,Capital Goods,Electrical Products,95.93920518,0
+296,40524,40524,563,4649,United States,Apparel,1840,Wolverine World Wide,World Fuel Services Corporation,United States,Energy,Oil Refining/Marketing,2535.087744,0
+261,38303,38303,3107,4389,United States,Wholesalers: Food and Grocery,-,US Foods Holding,US Foods Holding Corp.,United States,Consumer Non-Durables,Food Distributors,6206.455721,1
+240,36572,36572,1820,4218,United States,Industrial Machinery,2659,Timken,Timken Steel Corporation,United States,Basic Industries,Steel/Iron Ore,839.0546645,1
+69,12599,12599,788,1245,United States,Business Services & Supplies,-,Delaware North Cos,"Delaware Investments Colorado Municipal Income Fund, Inc",United States,n/a,n/a,71.10585371,1
+49,9529,9529,525,926,China,Airline,8400,China Southern Airlines,China Southern Airlines Company Limited,China,Transportation,Air Freight/Delivery Services,6528.682054999999,1
+48,6787,6787,2288,889,United States,Oil & Gas Operations,4500,Chesapeake Energy,Chesapeake Granite Wash Trust,United States,Energy,Oil & Gas Production,125.05625,1
+85,15191,15191,1470,1628,United States,Financial Data Services,20564,Fidelity National Information Services,"Fidelity National Information Services, Inc.",United States,Miscellaneous,Business Services,26177.50421,1
+297,40541,40541,2908,4650,United States,Specialty Stores,3500,World Fuel Services,"World Wrestling Entertainment, Inc.",United States,Consumer Services,Movies/Entertainment,1698.6957129999998,0
+141,22768,22768,2262,2467,South Korea,Natural Gas Utilities,3100,Korea Gas,Korea Electric Power Corporation,South Korea,Public Utilities,Electric Utilities: Central,26615.83063,1
+207,30525,30525,2964,3389,Philippines,Telecommunications services,8400,PLDT,PLDT Inc.,Philippines,Public Utilities,Telecommunications Equipment,6948.353724,1
+23,4052,4052,1410,503,United States,"Electronics, Electrical Equip.",2577,Belden,Belden Inc,United States,Basic Industries,Telecommunications Equipment,2918.614993,1
+246,37525,37525,2574,4335,United States,Railroads,75400,Union Pacific,Union Pacific Corporation,United States,Transportation,Railroads,86197.19182000001,1
+148,23512,23512,1881,2556,United States,Insurance: Property and Casualty (Stock),-,Liberty Mutual Insurance Group,Liberty Media Corporation,United States,Consumer Services,Broadcasting,1166.51295,0
+143,23439,23439,1394,2540,South Korea,Electronics,8100,LG Display,"LG Display Co., Ltd.",South Korea,Capital Goods,Industrial Machinery/Components,9746.899668,1
+78,14393,14393,2770,1511,United States,Services,-,Enterprise Holdings,Enterprise Financial Services Corporation,United States,Finance,Major Banks,995.1564537,0
+180,27532,27532,2997,2970,United States,Thrifts & Mortgage Finance,7400,New York Community,"New York & Company, Inc.",United States,Consumer Services,Clothing/Shoe/Accessory Stores,125.67179240000002,0
+100,18257,18257,602,1857,United States,Auto & Truck Manufacturers,49600,General Motors,General Dynamics Corporation,United States,Capital Goods,Marine Transportation,56790.99522999999,0
+204,30376,30376,2336,3373,United States,Oil & Gas Operations,25100,Pioneer Natural Resources,Pioneer Diversified High Income Trust,United States,n/a,n/a,134.82454219999997,0
+131,21504,21504,1944,2284,United States,Investment Services,13400,Invesco,Invesco Municipal Opportunity Trust,United States,n/a,n/a,874.7617501,1
+267,38759,38759,644,4472,United States,Auto & Truck Parts,2800,Visteon,Visteon Corporation,United States,Capital Goods,Auto Parts:O.E.M.,3213.854102,1
+298,40796,40796,3056,4688,United States,"Trucking, Truck Leasing",310,YRC Worldwide,"YRC Worldwide, Inc.",United States,Transportation,Trucking Freight/Courier Services,369.3015132,1
+196,29783,29783,2900,3301,United States,Specialty Stores,3100,Penske Automotive,"Penske Automotive Group, Inc.",United States,Consumer Durables,Automotive Aftermarket,4001.051889,1
+6,1043,1043,2999,168,United States,Tobacco,156,Alliance One International,"Alliance Holdings GP, L.P.",United States,Energy,Coal Mining,1642.0420900000001,0
+68,12434,12434,1102,1191,United States,Convenience Stores & Gas Stations,-,Cumberland Gulf Group,Cumberland Pharmaceuticals Inc.,United States,Health Care,Major Pharmaceuticals,110.49250829999998,1
+203,30360,30360,1339,3372,United States,Electric Utilities,7900,Pinnacle West,Pinnacle West Capital Corporation,United States,Public Utilities,Electric Utilities: Central,9283.543291,0
+84,15118,15118,2537,1626,United States,Property & Casualty Insurance,9100,Fidelity National Financial,"Fidelity National Financial, Inc.",United States,Finance,Specialty Insurers,13186.242740000002,1
+170,25353,25353,1149,2804,Japan,Diversified Chemicals,8100,Mitsubishi Chemical,Mitsubishi UFJ Financial Group Inc,Japan,Finance,Commercial Banks,85143.859,0
+121,20280,20280,877,2123,United States,Computer Hardware,21900,HP,HP Inc.,United States,Technology,Computer Manufacturing,30231.1817,1
+140,22601,22601,2631,2438,United States,Real Estate,11700,Kimco Realty,Kilroy Realty Corporation,United States,Consumer Services,Real Estate Investment Trusts,7047.559795,1
+256,38103,38103,1678,4372,United States,Health Care: Medical Facilities,12181,Universal Health Services,Universal Health Realty Income Trust,United States,Consumer Services,Real Estate Investment Trusts,877.142208,0
+274,39598,39598,2362,4562,United States,Oil & Gas Operations,2600,Western Refining,Western Asset Corporate Loan Fund Inc,United States,n/a,n/a,112.0771438,0
+142,23321,23321,884,2535,United States,Computer Peripherals,2071,Lexmark International,"Lennox International, Inc.",United States,Capital Goods,Industrial Machinery/Components,7190.9499989999995,0
+257,38160,38160,1649,4373,United States,Forest and Paper Products,1738,Universal Forest Products,"Universal Health Services, Inc.",United States,Health Care,Hospital/Nursing Management,12021.46392,0
+91,17470,17470,1034,1768,United States,Construction Services,7600,Fluor,Fluor Corporation,United States,Basic Industries,Military/Government/Technical,7352.944944,1
+82,14926,14926,1869,1601,United States,Insurance: Property and Casualty (Mutual),-,Farmers Insurance Exchange,Farmers Capital Bank Corporation,United States,Finance,Major Banks,303.025958,0
+283,39725,39725,772,4570,United States,Business & Personal Services,9900,Western Union,"Western Asset Managed Municipals Fund, Inc.",United States,n/a,n/a,592.4498307,0
+11,1608,1608,2843,223,United States,Specialty Retailers: Apparel,3012,American Eagle Outfitters,"American Eagle Outfitters, Inc.",United States,Consumer Services,Clothing/Shoe/Accessory Stores,2556.568038,1
+119,20043,20043,605,2097,Japan,Auto & Truck Manufacturers,51100,Honda Motor,"Honda Motor Company, Ltd.",Japan,Capital Goods,Auto Manufacturing,54537.099279999995,1
+102,18273,18273,1537,1859,United States,Food Processing,36000,General Mills,General Finance Corporation,United States,Technology,Diversified Commercial Services,134.40878130000002,0
+35,4854,4854,1907,595,United States,Investment Services,60400,BlackRock,"Blackrock MuniHoldings Quality Fund II, Inc.",United States,n/a,n/a,298.326718,1
+57,11084,11084,680,1015,United States,Beverages,192800,Coca-Cola,Coca-Cola Company (The),United States,Consumer Non-Durables,Beverages (Production/Distribution),182153.1,1
+169,25346,25346,3011,2804,Japan,Trading,-,Mitsubishi,Mitsubishi UFJ Financial Group Inc,Japan,Finance,Commercial Banks,85143.859,0
+231,34888,34888,2903,3955,United States,Specialty Stores,6800,Staples,"Staples, Inc.",United States,Consumer Services,Other Specialty Stores,5722.68653,1
+65,11845,11845,2228,1115,United States,Motor Vehicles and Parts,1235,Cooper-Standard Holdings,Cooper-Standard Holdings Inc.,United States,Capital Goods,Auto Parts:O.E.M.,1963.5211239999999,1
+1,678,678,2029,108,United States,Life & Health Insurance,28500,Aflac,Aflac Incorporated,United States,Finance,Accident &Health Insurance,29053.25348,1
+120,20142,20142,1542,2109,United States,Food Processing,20000,Hormel Foods,Hormel Foods Corporation,United States,Consumer Non-Durables,Meat/Poultry/Fish,18316.26626,1
+269,39304,39304,1362,4534,United States,Electric Utilities,17900,WEC Energy Group,"WEC Energy Group, Inc.",United States,Public Utilities,Power Generation,19133.62898,1
+186,28013,28013,2518,3044,United States,Pipelines,3147,NuStar Energy,"Nustar GP Holdings, LLC",United States,Energy,Natural Gas Distribution,1200.501385,0
+42,5584,5584,2271,686,United States,Network and Other Communications Equipment,4239,Brocade Communications Systems,"Brocade Communications Systems, Inc.",United States,Technology,Computer Communications Equipment,5088.1187390000005,1
+105,18291,18291,938,1860,United States,Conglomerates,285600,General Electric,"General Mills, Inc.",United States,Consumer Non-Durables,Packaged Foods,33997.75007,0
+132,21965,21965,1665,2341,United States,Health Care Equipment & Svcs,-,J M Smith Corporation,J & J Snack Foods Corp.,United States,Consumer Non-Durables,Specialty Foods,2534.169944,0
+79,14540,14540,752,1528,United States,Business & Personal Services,13800,Equifax,"Equifax, Inc.",United States,Finance,Finance: Consumer Services,16508.833919999997,1
+17,2784,2784,3083,304,United States,Wholesalers: Diversified,1704,Applied Industrial Technologies,Applied DNA Sciences Inc,United States,Consumer Services,Other Consumer Services,44.46812756,0
+263,38472,38472,1478,4413,United States,Financial Data Services,10311,Vantiv,"Vantiv, Inc.",United States,Miscellaneous,Business Services,12633.64862,1
+232,35074,35074,3080,3972,United States,Waste Management,10682,Stericycle,"Stericycle, Inc.",United States,Basic Industries,Environmental Services,7066.136761,1
+38,4917,4917,1907,605,United States,Investment Services,60400,BlackRock,"Blackrock MuniYield New York Quality Fund, Inc.",United States,n/a,n/a,513.0421286000001,1
+133,22189,22189,1894,2361,China,Internet & Catalog Retail,38800,JD.com,"JD.com, Inc.",China,Consumer Services,Other Specialty Stores,44206.10004,1
+53,10653,10653,1189,956,United States,Diversified Insurance,10600,Cincinnati Financial,Cincinnati Financial Corporation,United States,Finance,Property-Casualty Insurers,11911.21076,1
+258,38178,38178,1678,4375,United States,Health Care: Medical Facilities,12181,Universal Health Services,"Universal Logistics Holdings, Inc.",United States,Transportation,Trucking Freight/Courier Services,408.1555289,0
+128,21398,21398,167,2266,United States, Banks,539,INTL FCStone,INTL FCStone Inc.,United States,Finance,Investment Bankers/Brokers/Service,707.7545729,1
+28,4366,4366,1907,559,United States,Investment Services,60400,BlackRock,BlackRock Credit Allocation Income Trust,United States,n/a,n/a,1422.440317,1
+183,27651,27651,1433,2980,United States,Energy,3130,New Jersey Resources,"Newpark Resources, Inc.",United States,Energy,Metal Fabrications,686.4433938,0
+163,24535,24535,1834,2675,United States,Insurance Brokers,32400,Marsh & McLennan,"Marsh & McLennan Companies, Inc.",United States,Finance,Specialty Insurers,38053.61497,1
+151,23549,23549,1895,2559,United States,Internet & Catalog Retail,13000,Liberty Interactive,Liberty Property Trust,United States,Consumer Services,Real Estate Investment Trusts,5666.55224,0
+244,37488,37488,562,4327,United States,Apparel,18446,Under Armour,"Under Armour, Inc.",United States,Consumer Non-Durables,Apparel,8674.132538,1
+202,30359,30359,1754,3372,United States,"Hotels, Casinos, Resorts",2144,Pinnacle Entertainment,Pinnacle West Capital Corporation,United States,Public Utilities,Electric Utilities: Central,9283.543291,0
+31,4632,4632,1907,573,United States,Investment Services,60400,BlackRock,BlackRock Investment Quality Municipal Trust Inc. (The),United States,n/a,n/a,248.85123829999998,1
+32,4659,4659,1907,575,United States,Investment Services,60400,BlackRock,BlackRock Maryland Municipal Bond Trust,United States,n/a,n/a,29.50741663,1
+127,21316,21316,2442,2258,United States,Paper & Paper Products,17800,International Paper,International Speedway Corporation,United States,Consumer Services,Services-Misc. Amusement & Recreation,1663.426982,0
+185,27854,27854,2455,3016,United States,Petroleum Refining,2194,Northern Tier Energy,Northern Technologies International Corporation,United States,Capital Goods,Industrial Specialties,82.55807765,0
+278,39668,39668,1848,4566,United States,"Insurance: Life, Health (Mutual)",-,Western & Southern Financial Group,Western Asset High Income Fund II Inc.,United States,n/a,n/a,622.3918403,0
+271,39430,39430,2669,4546,United States,Real Estate,24300,Welltower,Welltower Inc.,United States,Consumer Services,Real Estate Investment Trusts,25722.24056,1
+147,23481,23481,1458,2552,United States,Entertainment,12927,Liberty Media,Liberty Interactive Corporation,United States,Consumer Services,Catalog/Specialty Distribution,3799.59409,0
+276,39612,39612,1490,4563,United States,Food and Drug Stores,1212,Weis Markets,Western Asset Emerging Markets Debt Fund Inc,United States,n/a,n/a,941.563186,0
+177,27357,27357,1433,2961,United States,Energy,3130,New Jersey Resources,"New Concept Energy, Inc",United States,Energy,Oil & Gas Production,3.5044812000000007,0
+99,18244,18244,602,1856,United States,Auto & Truck Manufacturers,49600,General Motors,"General Communication, Inc.",United States,Public Utilities,Telecommunications Equipment,744.8383200000001,0
+197,29837,29837,2998,3307,United States,Thrifts & Mortgage Finance,5000,People's United Financial,Peoples Financial Services Corp. ,United States,Finance,Major Banks,309.0751774,1
+243,37361,37361,2662,4302,United States,Real Estate,2700,Two Harbors Investment,Two Harbors Investments Corp,United States,Consumer Services,Real Estate Investment Trusts,3346.056298,1
+115,19297,19297,1071,2001,United States,Consumer Electronics,6300,Harman International,Handy & Harman Ltd.,United States,Capital Goods,Industrial Specialties,332.947992,0
+265,38599,38599,735,4443,United States,Broadcasting & Cable,17300,Viacom,Viacom Inc.,United States,Consumer Services,Television Services,16198.590419999999,1
+72,13009,13009,1300,1313,United States,Electric Utilities,43200,Dominion Resources,"Dominion Resources, Inc.",United States,Public Utilities,Electric Utilities: Central,48753.24533,1
+25,4093,4093,1761,516,United States,Household & Personal Products,-,Big Time Products,"Big Lots, Inc.",United States,Consumer Services,Department/Specialty Retail Stores,2180.198155,0
+165,24691,24691,2760,2695,United States,Semiconductors and Other Electronic Components,10534,Maxim Integrated Products,"Maxim Integrated Products, Inc.",United States,Technology,Semiconductors,12709.80485,1
+287,39838,39838,2362,4578,United States,Oil & Gas Operations,2600,Western Refining,Western Asset/Claymore U.S. Treasury Inflation Prot Secs Fd,United States,n/a,n/a,335.5489697,0
+174,25742,25742,1956,2835,United States,Investment Services,53700,Morgan Stanley,Morgan Stanley China A Share Fund Inc.,United States,n/a,n/a,420.5617573,1
+289,39923,39923,1161,4586,United States,Diversified Chemicals,6700,Westlake Chemical,Westlake Chemical Corporation,United States,Basic Industries,Major Chemicals,8515.496448,0
+39,5407,5407,2142,657,United States,Medical Equipment & Supplies,26800,Boston Scientific,Boston Scientific Corporation,United States,Health Care,Medical/Dental Instruments,34046.319339999995,1
+193,29588,29588,3109,3270,United States,Wholesalers: Health Care,4611,Patterson,"Patterson Companies, Inc.",United States,Health Care,Medical Specialities,4393.37082,1
+88,15825,15825,1428,1680,United States,Energy,6968,First Solar,"First Solar, Inc.",United States,Technology,Semiconductors,2819.6111260000002,1
+70,12619,12619,2452,1250,United States,Petroleum Refining,947,Delek US Holdings,"Delek Logistics Partners, L.P.",United States,Energy,Natural Gas Distribution,810.1426131,1
+87,15234,15234,1470,1629,United States,Financial Data Services,20564,Fidelity National Information Services,Fidelity Southern Corporation,United States,Finance,Major Banks,590.0837481000001,0
+242,37117,37117,1502,4262,United States,Food Consumer Products,4892,TreeHouse Foods,"Treehouse Foods, Inc.",United States,Consumer Non-Durables,Packaged Foods,4812.923201,1
+277,39613,39613,772,4563,United States,Business & Personal Services,9900,Western Union,Western Asset Emerging Markets Debt Fund Inc,United States,n/a,n/a,941.563186,0
+211,32138,32138,2339,3607,United States,Oil & Gas Operations,-,Red Apple Group,"Red Robin Gourmet Burgers, Inc.",United States,Consumer Services,Restaurants,750.2388593999999,0
+9,1239,1239,1162,187,United States,Diversified Financials,9043,Ally Financial,Ally Financial Inc.,United States,Finance,Finance: Consumer Services,9437.188989,1
+195,29779,29779,647,3301,United States,"Automotive Retailing, Services",3269,Penske Automotive Group,"Penske Automotive Group, Inc.",United States,Consumer Durables,Automotive Aftermarket,4001.051889,1
+251,37966,37966,856,4358,United States,Commercial Banks,70518,United States Bancorp,United States Steel Corporation,United States,Basic Industries,Steel/Iron Ore,5892.770629,0
+192,29108,29108,2456,3225,United States,Petroleum Refining,771,Par Pacific Holdings,"Pacific Biosciences of California, Inc.",United States,Capital Goods,Biotechnology: Laboratory Analytical Instruments,478.9264173,0
+117,19449,19449,543,2022,United States,Airlines,2520,Hawaiian Holdings,"Hawaiian Telcom Holdco, Inc.",United States,Consumer Services,Telecommunications Equipment,263.9419211,0
+47,6545,6545,2816,865,United States,Specialized Chemicals,7700,CF Industries Holdings,CF Corporation,United States,Finance,Business Services,840.84,1
+172,25405,25405,864,2814,United States,Communications Equipment,13200,Motorola Solutions,"ModusLink Global Solutions, Inc",United States,Miscellaneous,Business Services,99.9954738,0
