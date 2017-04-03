@@ -22,6 +22,7 @@ Data mining over company data.
 - [Data and description](https://github.com/jmzhao/cs838-data-science/tree/master/dataset/structured_data)
 - [Code, jupyter notebooks named stage3-*](https://github.com/jmzhao/cs838-data-science)
 - [Report](./reports/stage_three_report.pdf)
+
 ## Contacts
 - Jinman Zhao (jzhao237)
 - Bin Guo (bguo23)
