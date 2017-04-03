@@ -1,0 +1,51 @@
+Provide a link to a DATA directory that stores both tables A and B. They should be stored in two files, each file storing a table in CSV format. We should be able to browse these files to examine the tables. There should be a README file in the same directory that explains the tables (e.g., the meaning of the attributes) and lists the number of tuples per table.
+
+####################
+# Forbes company information
+####################
+forbes_all.csv, original company information from Forbes website.
+forbes_all_rename.csv, rename attributes names, see the code.
+
+Total number of tuples: 3,110.
+
+Format:
+,id,Name,Country,Industry,Sales,Profits,Assets,MarketValue,Employee
+0,1,77 Bank,Japan, Banks,853,165,69100,1400,-
+
+Attributes:
+id, reference for each tuple
+Name, company name
+Country
+Industry, 
+Sales, sales of last year
+Profits, profits of last year
+Assets, current total assets
+MarketValue, current Market value
+Employee, number of employees.
+
+
+####################
+# NASDAQ stock information.
+####################
+
+nasdaq.csv, original NASDAQ stock information.
+nasdaq_rename.csv, rename attributes names, see the code.
+
+Total number of tuples: 4,714.
+
+Format:
+,id,Symbol,Name,LastSale,MarketValue,Country,IPOyear,Sector,Industry,Summary Quote
+0,1,FLWS,"1-800 FLOWERS.COM, Inc.",10.15,665.5259387,United States,1999,Consumer Services,Other Specialty Stores,http://www.nasdaq.com/symbol/flws
+
+Attributes:
+id, reference for each tuple
+Symbol, stock name
+Name, company name
+LastSale, the price of last sale of this stock
+MarketValue, current market value of this company
+Country
+IPOyear, the year when this company first went public
+Sector, divisions of the company specility
+Industry, divisions of the company kinds
+Summary Quote, website link on NASDAQ.
+
