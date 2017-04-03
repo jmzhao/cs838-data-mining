@@ -1,5 +1,3 @@
-Provide a link to a DATA directory that stores both tables A and B. They should be stored in two files, each file storing a table in CSV format. We should be able to browse these files to examine the tables. There should be a README file in the same directory that explains the tables (e.g., the meaning of the attributes) and lists the number of tuples per table.
-
 ####################
 # Forbes company information
 ####################
@@ -48,4 +46,20 @@ IPOyear, the year when this company first went public
 Sector, divisions of the company specility
 Industry, divisions of the company kinds
 Summary Quote, website link on NASDAQ.
+
+
+##############################
+# other files
+##############################
+
+blocking_results.csv, all possible pairs from the blocking process.
+
+golden_label.csv, labeled 300 pairs from the blocking results.
+golden_label_revised.csv, fixed some wrong labels.
+
+I.csv, development set.
+I_revised.csv, fixed some wrong labels.
+
+J.csv, test set.
+J_revised.csv, fixed some wrong labels.
 
