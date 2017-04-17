@@ -16,12 +16,17 @@ Data mining over company data.
 - [Documents in set I](https://github.com/jmzhao/cs838-data-science/tree/master/dataset/labeled_texts/fortune500)
 - [Documents in set J](https://github.com/jmzhao/cs838-data-science/tree/master/dataset/labeled_texts/fortune500_wiki)
 - [Source code](https://github.com/jmzhao/cs838-data-science/tree/master/src/)
-- Coming soon..._
 
 ## Stage 3
+- [Report](./reports/stage_three_report.pdf)
 - [Data and description](https://github.com/jmzhao/cs838-data-science/tree/master/dataset/structured_data)
 - [Code, jupyter notebooks named stage3-*](https://github.com/jmzhao/cs838-data-science)
-- [Report](./reports/stage_three_report.pdf)
+
+## Stage 4
+- [Report](./reports/stage_four_report.pdf)
+- [Table E]((https://github.com/jmzhao/cs838-data-science/dataset/structured_data/E.csv)
+- [Matching results](https://github.com/jmzhao/cs838-data-science/dataset/structured_data/matching_result.csv)
+- [Code](https://github.com/jmzhao/cs838-data-science/stage4-matching.ipynb)
 
 ## Contacts
 - Jinman Zhao (jzhao237)
