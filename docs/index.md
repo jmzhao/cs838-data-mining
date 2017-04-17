@@ -24,9 +24,9 @@ Data mining over company data.
 
 ## Stage 4
 - [Report](./reports/stage_four_report.pdf)
-- [Table E](https://github.com/jmzhao/cs838-data-science/dataset/structured_data/E.csv)
-- [Matching results](https://github.com/jmzhao/cs838-data-science/dataset/structured_data/matching_result.csv)
-- [Code](https://github.com/jmzhao/cs838-data-science/stage4-matching.ipynb)
+- [Table E](https://github.com/jmzhao/cs838-data-science/tree/master/dataset/structured_data/E.csv)
+- [Matching results](https://github.com/jmzhao/cs838-data-science/tree/master/dataset/structured_data/matching_result.csv)
+- [Code](https://github.com/jmzhao/cs838-data-science/tree/master/stage4-matching.ipynb)
 
 ## Contacts
 - Jinman Zhao (jzhao237)
