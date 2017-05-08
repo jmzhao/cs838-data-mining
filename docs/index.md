@@ -28,6 +28,11 @@ Data mining over company data.
 - [Matching results](https://github.com/jmzhao/cs838-data-science/tree/master/dataset/structured_data/matching_result.csv)
 - [Code](https://github.com/jmzhao/cs838-data-science/tree/master/stage4-matching.ipynb)
 
+## Stage 5
+- [Report](./reports/stage_five_report.pdf)
+- [Table E](https://github.com/jmzhao/cs838-data-science/tree/master/dataset/structured_data/E.csv)
+- [Code](https://github.com/jmzhao/cs838-data-science/tree/master/Stage5-script.ipynb)
+
 ## Contacts
 - Jinman Zhao (jzhao237)
 - Bin Guo (bguo23)
